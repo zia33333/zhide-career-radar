@@ -1,9 +1,21 @@
 {
   "source": "V2EX 酷工作",
   "sourceUrl": "https://www.v2ex.com/feed/jobs.json",
-  "generatedAt": "2026-08-21T09:45:51.022Z",
-  "count": 38,
+  "generatedAt": "2026-08-22T03:28:34.404Z",
+  "count": 37,
   "items": [
+    {
+      "id": "https://www.v2ex.com/t/1236318",
+      "title": "[深圳] 招聘 C++ 软件工程师",
+      "url": "https://www.v2ex.com/t/1236318",
+      "author": "asssrias",
+      "publishedAt": "2026-08-21T16:40:38+00:00",
+      "summary": "工作职责:\n1 、负责 3D 打印模型预处理软件 Windows 客户端软件功能开发，界面、网络功能开发；\n2 、项目架构设计，核心模块代码的开发工作；\n3 、编写相关的技术文档等；\n4 、持续改进重构现有代码\n任职资格:\n1 、计算机、自动化、电子及相关专业，本科及以上学历，5 年以上嵌入式产品、软件开发经验；\n2 、熟悉 C++，有扎实的 C++语言编程功底;\n3 、熟悉 sqlite 的数据库设计，数据存储设计；\n4 、熟悉网络编程\n5 、熟悉常用数据结构和算法、面向对象设计思想、常用的设计模式；",
+      "roleFamilies": [
+        "technology",
+        "design"
+      ]
+    },
     {
       "id": "https://www.v2ex.com/t/1236159",
       "title": "TikTok Shop 交易与供应链物流团队 火热招聘！ [Base 杭州/珠海/新加坡]",
@@ -441,29 +453,6 @@
       "author": "GSDgsd",
       "publishedAt": "2026-08-11T05:49:13+00:00",
       "summary": "[公司简介] \n株式会社 GSD （官网： https://www.g-s-d.co.jp/）成立于 2015 年，总部位于东京文京区，由技术出身的王月社长领航。他既精通技术，也重视团队中每一位人才的价值。\n作为一家高科技企业，我们专注于软件开发、委托开发及互联网服务，尤其在金融（银行、证券、保险）、商业和物流领域拥有丰富经验。我们的工程师团队活跃于一线，结合前沿技术与高效开发模式，持续为客户挖掘新机遇、创造更大价值。\n更多详情可点击：环球科技日报网（ http://www.globaltechdaily.com/infos/2024/s03011346.html ）或关注公众号（ https://mp.weixin.qq.com/s/EO6rF-a4y-rOfD8yznbpqw ）。\n\n [业务版块] \n我们的业务涵盖即战力工程师派遣、委托开发、中日离岸开发及咨询服务。除了熟练掌握 Java 、.NET 、PHP 、COBOL 、C/C++、Python 、Ruby 、BI 等传统语言，我们也积极拥抱前沿技术：利用云平台（如 SAS ）推动企业数字化转型，通过 RPA 优化客户流程，提升智能化水平；移动端开发则为客户拓展更多便捷业务。在金融和物流等领域，我们助力客户实现 DX 化转型，创造持续价值。\n\n [荣登日本 B.S.TIMES ] \n2023 年，株式会社 GSD 开发管理团队因对日中 EC 业务的卓越贡献，荣登日本 B.S.TIMES 杂志。报道中提到，我们为多个售卖网站实现商品同步登录功能，以低成本带来高价值，帮助客户大幅节省时间，达成双赢。2024 年，正值公司",
-      "roleFamilies": [
-        "technology"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1233379",
-      "title": "[社招] 字节跳动 agent 工程师 aime",
-      "url": "https://www.v2ex.com/t/1233379",
-      "author": "eastOneHalf",
-      "publishedAt": "2026-08-10T15:58:14+00:00",
-      "summary": "内推链接： https://job.toutiao.com/s/SZ2N3hxX494 \n 职位描述\n1 、负责字节跳动 AI Agent 产品 Aime 的 Agent 主架构研发与优化，包括但不限于上下文组装与压缩、Memory 机制（短期/长期/情景记忆）、调度机制等业务模块的设计与落地；\n2 、负责 Skill 体系与扩展能力建设，涵盖 Skill 框架设计、插件化生态、Skill 自进化机制等方向的研究与工程化；\n3 、负责 Agent 端到端效果调优与效率优化；\n4 、进行 AI 前沿技术的调研与落地。\n职位要求\n1 、本科及以上学历，计算机、软件工程、人工智能等相关专业；\n2 、思维敏捷、学习能力强，对 AI 技术感兴趣，能自驱地进行探索与实践；\n3 、持续关注 AI 领域，有 Agent 产品、开发者工具等相关研发经验者优先；\n4 、不限技术栈、如有具备全栈或跨 AI 技术方向经验者优先。 \n 发简历给我可帮写推荐语，据说更容易过初筛，不知真假。我卫星的 base64：WVpDNjU2NTAxMjI2",
-      "roleFamilies": [
-        "technology",
-        "design"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1233343",
-      "title": "[招聘] 杭州上城区银行纯人力工作，长期稳定",
-      "url": "https://www.v2ex.com/t/1233343",
-      "author": "PowerLee",
-      "publishedAt": "2026-08-10T11:04:30+00:00",
-      "summary": "1：工作地在浙江杭州上城区\n2：银行工作，涉及技术栈有 springboot ，springcloud ，nacos ，mybatis ，数据库理解 Oracle ，msyql ，熟悉国产化相关应用组建，例如宝兰德，tdsql ，tongweb 等.\n3:有银行经验，了解银行架构，了解银行内的各个系统，esb ，ECIF ，和新系统，支付系统等\n4：作为技术经理，主要工作是完成日常的开发工作，负责日常项目组的协同管理，负责现场人员的管理，以及银行甲方的工作汇报。\n5：有兴趣的可以联系我，薪资可谈",
       "roleFamilies": [
         "technology"
       ]
