@@ -1,9 +1,21 @@
 {
   "source": "V2EX 酷工作",
   "sourceUrl": "https://www.v2ex.com/feed/jobs.json",
-  "generatedAt": "2026-08-22T09:58:33.726Z",
+  "generatedAt": "2026-08-23T03:59:14.390Z",
   "count": 37,
   "items": [
+    {
+      "id": "https://www.v2ex.com/t/1236485",
+      "title": "一个生产事件，怎样被 Agent 组织真正“看见”？",
+      "url": "https://www.v2ex.com/t/1236485",
+      "author": "islaohu",
+      "publishedAt": "2026-08-22T16:21:29+00:00",
+      "summary": "一个生产事件，怎样被 Agent 组织真正“看见”？ \n \n TapNow 招聘｜ Agent 平台工程师（ SRE 方向）｜深圳 \n \n 不久前，我们遇到过一个很典型的问题。 \n 一个超高分辨率视频任务消耗了远超预期的资源，worker 失败后，任务又被队列重新投递。表面上看，它只是某个节点在不断报错；真正的问题却横跨任务设计、资源调度、重试策略、运行时状态和用户影响。 \n 有经验的工程师会把这些碎片接起来：记得刚刚发生过什么，知道该去哪里补证据，也能意识到一条单独的告警没有讲出完整故事。 \n 但 Agent 不会自然拥有这些“余光”。 \n 解决完具体故障以后，我们更想回答的是：如果下一次首先抵达现场的是 Agent ，它怎样知道发生了什么？怎样区分症状与原因？怎样获得足够的权限行动，又不会因为执行得太快而放大风险？ \n 我们在寻找一位工程师，和我们一起把答案做成平台。 \n 这不是一个告警数量的问题 \n Agent 不会顺便扫一眼大盘，不会无意中听到同事谈论上游波动，也不会自动把刚完成的发布和突然出现的 5xx 联系起来。它知道的一切，都必须被系统明确提供。 \n 所以，我们所说的“信号”并不等于再发一条通知。 \n 一个完整的生产信号需要说明：发生了什么事实，它与哪些对象有关，谁应该关注，谁负有行动责任，当前处于什么阶段，最终是被处理、忽略还是升级。对人而言，它可能是一条提醒；对诊断 Agent 而言，它可能是一项工作；即使系统决定不投递，也应该留下可追溯的裁决。 \n 这也是为什么我们把 SRE 看作 Agent 组织的平台角色，而不只是基础设施的维护者。 \n TapNow 提",
+      "roleFamilies": [
+        "technology",
+        "design"
+      ]
+    },
     {
       "id": "https://www.v2ex.com/t/1236419",
       "title": "创作者 BD / 创作者运营，市场推广 / 用户增长，测试工程师 / QA 工程师",
@@ -441,21 +453,6 @@
       "roleFamilies": [
         "marketing",
         "operations",
-        "technology",
-        "design"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1233638",
-      "title": "招聘：\r\nPayFi Tech Lead/统一账户/理财产品专家/设计负责人/韩国 BD/社区负责人/资深 Java /C++低延迟/高频量化交易开发/高级 Rust。",
-      "url": "https://www.v2ex.com/t/1233638",
-      "author": "justinX",
-      "publishedAt": "2026-08-11T10:14:44+00:00",
-      "summary": "Position：AI 算法一号位（ SG/HK/Remote ）：\n寻求 8 年+AI/ML 、3 年+管理经验的顶尖算法专家，精通深度学习/大模型/RAG/Agent ，主导量化 AI Trading 落地并构建 MLOps/LLMOps 平台优化推理成本、沉淀可复用工具，优先加密所/量化基金背景。\n\nPosition：PayFi Tech Lead （ Remote ）：\n钱包部门 PayFi 业务线核心技术负责人（对标 P8 ），带领 5-10 人团队，主导链上支付业务，需精通 Go 与 Web3 链上支付开发，推动 AI 在研发流程落地，英语流利者优先。\n\nPosition：统一账户专家/理财产品经理专家（ Remote ）：\n专家级统一账户金融产品设计岗（不需带人）或衍生品/策略产品背景的大 Leader 级理财 PM ，要求极强专业深度、创业心态和执行力。\n\nPosition：设计负责人（ Remote ）：\n钱包设计团队负责人（带 10-20 人），需国际化背景，具备全栈设计（ UI/UX/视觉）与品牌叙事能力，并能将 AI 融入设计流程提升团队效率。\n\nPosition：韩国 BD （ Remote ）：\n需具备美股或韩国股市背景，韩语流利，英语不强制。\n\nPosition：社区负责人（预测市场/合约，Remote ）：\n需有 Web3 交易类社区从 0 到 1 完整搭建经验，主导冷启动与增长全链路，擅长转化体系、用户分层与数据驱动优化。\n\nPosition：资深 Java 开发工程师（预测市场，Remote ）：\n需能深入分析交易所形态差异及技术逻辑，具备 ",
-      "roleFamilies": [
-        "marketing",
-        "operations",
-        "product",
         "technology",
         "design"
       ]
