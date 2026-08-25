@@ -53,6 +53,8 @@ const items = (Array.isArray(feed.items) ? feed.items : []).filter(item => {
     author: item.author && item.author.name || "",
     publishedAt: item.date_published || item.date_modified || "",
     summary,
+    linkStatus: "feed_listed",
+    sourceVerifiedAt: new Date().toISOString(),
     roleFamilies: families(`${title}\n${summary}`)
   }
 })
