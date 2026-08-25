@@ -26,14 +26,15 @@ jobs:
           node scripts/sync-v2ex-jobs.mjs
           node scripts/sync-funplus-jobs.mjs
           node scripts/sync-tianzong-jobs.mjs
+          node scripts/sync-neowiz-jobs.mjs
       - name: Commit feed changes
         run: |
-          if git diff --quiet -- data/v2ex-jobs.json data/funplus-jobs.json data/tianzong-jobs.json; then
+          if git diff --quiet -- data/v2ex-jobs.json data/funplus-jobs.json data/tianzong-jobs.json data/neowiz-jobs.json; then
             echo "No feed changes"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/v2ex-jobs.json data/funplus-jobs.json data/tianzong-jobs.json
+          git add data/v2ex-jobs.json data/funplus-jobs.json data/tianzong-jobs.json data/neowiz-jobs.json
           git commit -m "chore(data): refresh public job feeds"
           git push
