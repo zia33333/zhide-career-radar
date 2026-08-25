@@ -56,5 +56,9 @@ if(!items.length)throw new Error(`All Moka game feeds failed: ${JSON.stringify(s
 
 await fs.mkdir(new URL("../data/",import.meta.url),{recursive:true})
 await fs.writeFile(outputPath,JSON.stringify({source:"Moka 游戏企业官方招聘合集",sourceUrl:api,generatedAt:new Date().toISOString(),count:items.length,sources,items},null,2)+"\n")
+for(const [orgId,,company] of tenants){
+  const companyItems=items.filter(item=>item.company===company)
+  await fs.writeFile(new URL(`../data/moka-${orgId}-jobs.json`,import.meta.url),JSON.stringify({source:`${company}官方招聘`,sourceUrl:api,generatedAt:new Date().toISOString(),count:companyItems.length,items:companyItems},null,2)+"\n")
+}
 console.log(`Wrote ${items.length} Moka game jobs from ${sources.filter(item=>item.ok).length}/${sources.length} companies`)
 for(const source of sources)console.log(`${source.ok?"OK":"FAIL"} ${source.company}: ${source.count}${source.error?` (${source.error})`:""}`)
