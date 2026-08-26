@@ -1,8 +1,8 @@
 {
   "source": "NEOWIZ 官方招聘",
   "sourceUrl": "https://api.lever.co/v0/postings/neowiz?mode=json",
-  "generatedAt": "2026-08-26T04:04:49.724Z",
-  "count": 32,
+  "generatedAt": "2026-08-26T11:01:15.984Z",
+  "count": 28,
   "items": [
     {
       "id": "c3704f2e-5921-49f2-a9c2-8857696d846f",
@@ -15,21 +15,7 @@
       "url": "https://jobs.lever.co/neowiz/c3704f2e-5921-49f2-a9c2-8857696d846f",
       "publishedAt": "2026-03-26T07:53:03.936Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "d37da45c-2f88-4b88-a003-87455f322b81",
-      "title": "[ASTRA9 Studio] 라이프 시뮬레이션 신작 프로젝트 기획자 (인턴)",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Game Design / ASTRA9 Studio / Internship",
-      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. ASTRA9 Studio 소개 ASTRA9 Studio는 게임을 진심으로 즐기는 게이머들이 모여, 유저의 마음에 영원히 살아 숨쉴 별들을 만들어 가는 곳입니다. 플레이어의 시선에서 함께 몰입하며 게임이 주는 순수한 즐거움에 공감하고, 누군가의 가슴속에 영원한 별로 남을 ‘인생 게임’을 함께 만들어갈 진짜 게이머인 동료를 모십니다. 프로젝트 소개 글로벌 PC/콘솔 시장을 목표로 라이프 시뮬레이션을 개발하고 있습니다. 포지션 소개 에피소드 연출 감각을 가진 기획 인재를 모십니다. 내러티브·스토리 팀의 이야기를 유니티 엔진 위에서 살아 움직이는 인게임 연출로 구현하고, 퀘스트 데이터를 에피소드가 매끄럽게 흘러가도록 작성합니다. 스토리를 사랑하고, 그 스토리가 '플레이 경험'이 되는 과정에 매력을 느끼는 분과 함께하고 싶습니다.",
-      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/d37da45c-2f88-4b88-a003-87455f322b81",
-      "publishedAt": "2026-07-29T07:46:18.839Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -43,7 +29,7 @@
       "url": "https://jobs.lever.co/neowiz/5ad83a87-38c2-4441-81da-5ab73e3217fc",
       "publishedAt": "2026-07-29T08:10:18.130Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -57,7 +43,7 @@
       "url": "https://jobs.lever.co/neowiz/8ec875e2-4a05-461e-9a91-0660f2f3981a",
       "publishedAt": "2026-07-24T08:52:52.805Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -71,35 +57,7 @@
       "url": "https://jobs.lever.co/neowiz/2be497e4-0b96-471f-bb93-8e061b396a55",
       "publishedAt": "2026-08-11T04:25:01.045Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "6c5ac078-6cf1-4e7f-a9ee-865d97fb02ef",
-      "title": "[NOUGH Studio] P의 거짓 차기작 배경/시니어 레벨러",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Game Art & Creative / NOUGH Studio / Regular(Full-time)",
-      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. Studio 소개 NOUGH Studio는 “Games by Gamers”라는 가치를 최우선으로 삼아 게임을 만듭니다. 우리는 게임을 좋아하고, 게임이 주는 즐거움에 진정으로 공감하는 사람이 모여야 팬들을 감동시킬 수 있다고 믿습니다. 이러한 스튜디오의 가치에 깊이 공감하며, 게임에 대한 진심을 공유할 수 있는 개발자분들의 많은 지원을 기다립니다. 프로젝트 소개 \"P의 거짓\" 차기작 배경 레벨러를 모십니다. 언리얼엔진5 기반으로 최고 수준의 그래픽과 심도있는 레벨 디자인, 강렬한 액션의 경험을 선사하고자 합니다.",
-      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/6c5ac078-6cf1-4e7f-a9ee-865d97fb02ef",
-      "publishedAt": "2026-05-08T04:26:31.395Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "043e856c-8815-45d2-a005-832a63463aac",
-      "title": "[NOUGH Studio] 미공개 소울라이크 신작 리드 UI 아티스트",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Game Art & Creative / NOUGH Studio / Regular(Full-time)",
-      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. Studio 소개 NOUGH Studio는 “Games by Gamers”라는 가치를 최우선으로 삼아 게임을 만듭니다. 우리는 게임을 좋아하고, 게임이 주는 즐거움에 진정으로 공감하는 사람이 모여야 팬들을 감동시킬 수 있다고 믿습니다. 이러한 스튜디오의 가치에 깊이 공감하며, 게임에 대한 진심을 공유할 수 있는 개발자분들의 많은 지원을 기다립니다. 프로젝트 소개 Project Windi 는 아직 공개되지 않은 소울라이크 액션 게임 프로젝트로, 강렬한 액션과 지적 즐거움을 담은 내러티브, 그리고 미학적으로 의미있는 미술경험을 제공하는 것을 목표로 합니다.",
-      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/043e856c-8815-45d2-a005-832a63463aac",
-      "publishedAt": "2026-07-27T09:15:37.258Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -113,21 +71,7 @@
       "url": "https://jobs.lever.co/neowiz/19af5396-0ff5-4d14-acc6-f5d6ea5df995",
       "publishedAt": "2026-07-06T08:45:18.245Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "794c046c-f474-4a35-93f0-eb25a3410907",
-      "title": "[Onetake Studio] JRPG 신작 프로젝트 3D 캐릭터 애니메이터",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Game Art & Creative / Onetake Studio / Regular(Full-time)",
-      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. 부서 소개 Onetake 스튜디오는 게임, 애니메이션, 서브컬쳐를 사랑하는 사람들이 모여 즐겁게 게임을 만드는 곳입니다. Onetake 촬영 기법은 처음부터 끝까지 한 번에 찍는 것이지만 그러기 위해선 수많은 시도와 완벽한 준비가 필요합니다. 그런 장인 정신으로 게임을 만들겠다는 의지가 담긴 이름입니다. 자신의 인생 게임을 사랑하는 만큼 누군가의 인생 게임을 만들고 싶다면, 만들어가는 과정은 힘들지만 완성된 게임을 보며 함께 행복해하실 분들은 문을 두드려 주세요.",
-      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/794c046c-f474-4a35-93f0-eb25a3410907",
-      "publishedAt": "2026-07-06T08:37:55.550Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.720Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -141,7 +85,7 @@
       "url": "https://jobs.lever.co/neowiz/d5a80dd5-8deb-47b4-914c-5acda928107d",
       "publishedAt": "2026-08-10T00:36:11.603Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.721Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -155,7 +99,7 @@
       "url": "https://jobs.lever.co/neowiz/558c52dc-e247-4b33-99a0-9cd92932fee4",
       "publishedAt": "2026-07-28T08:51:18.483Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.721Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -169,7 +113,7 @@
       "url": "https://jobs.lever.co/neowiz/c10f6e4b-78e2-412d-8586-c41e0cdd7aaa",
       "publishedAt": "2026-07-30T10:29:49.548Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.721Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -183,7 +127,7 @@
       "url": "https://jobs.lever.co/neowiz/7995486e-3cee-4cf5-9c9b-652ba22450c8",
       "publishedAt": "2026-07-30T10:26:46.246Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.721Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -197,7 +141,7 @@
       "url": "https://jobs.lever.co/neowiz/7de35c5d-137c-4c03-9453-5f93228899f7",
       "publishedAt": "2026-07-30T10:14:50.175Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.721Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -211,7 +155,7 @@
       "url": "https://jobs.lever.co/neowiz/403dd6b6-b75c-4d37-a204-8eab066dbee0",
       "publishedAt": "2026-08-03T06:32:26.940Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.982Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -225,7 +169,7 @@
       "url": "https://jobs.lever.co/neowiz/1868965d-cc2d-4c3b-8ba4-98baccec3515",
       "publishedAt": "2026-06-22T09:36:23.822Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -239,7 +183,7 @@
       "url": "https://jobs.lever.co/neowiz/3344358d-b759-4d82-b5cc-7880d5415f37",
       "publishedAt": "2026-08-10T00:27:36.810Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -253,7 +197,7 @@
       "url": "https://jobs.lever.co/neowiz/0a492269-2cbd-44b4-9c7c-83809ff52e4d",
       "publishedAt": "2023-04-11T05:17:34.004Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -267,7 +211,7 @@
       "url": "https://jobs.lever.co/neowiz/c74ffadf-1e4e-4a3e-8ec3-fde9cc8f2aa3",
       "publishedAt": "2022-03-08T00:35:39.285Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -281,7 +225,7 @@
       "url": "https://jobs.lever.co/neowiz/75932945-7224-4368-84bd-dcde43348d6e",
       "publishedAt": "2026-01-26T13:57:08.575Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -295,7 +239,7 @@
       "url": "https://jobs.lever.co/neowiz/f23d7481-0340-4bdf-a9f8-f31ade4cefe8",
       "publishedAt": "2026-06-10T08:23:57.515Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -309,7 +253,7 @@
       "url": "https://jobs.lever.co/neowiz/d30365c0-0c21-4da7-b802-2cd845dc02de",
       "publishedAt": "2026-06-10T08:28:17.483Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -323,7 +267,7 @@
       "url": "https://jobs.lever.co/neowiz/8513459e-6434-453a-9855-97b447039118",
       "publishedAt": "2026-06-09T07:13:32.678Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -337,7 +281,7 @@
       "url": "https://jobs.lever.co/neowiz/e15ff859-a1c8-48b4-bebf-8d2455c7edbb",
       "publishedAt": "2026-06-10T08:45:01.413Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -351,7 +295,7 @@
       "url": "https://jobs.lever.co/neowiz/3320e7f2-9bcd-45c0-8b03-2c4351a8f9fe",
       "publishedAt": "2026-07-20T09:24:17.878Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -365,7 +309,7 @@
       "url": "https://jobs.lever.co/neowiz/ec52d20a-20d1-4621-9b34-cd3ab123c5e0",
       "publishedAt": "2026-08-25T02:52:14.573Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -379,7 +323,7 @@
       "url": "https://jobs.lever.co/neowiz/3aee6e8e-e98b-4ce5-a4ff-a6d2a41ab78f",
       "publishedAt": "2026-08-13T06:30:01.094Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -393,7 +337,7 @@
       "url": "https://jobs.lever.co/neowiz/2f718f75-1e42-45b8-8697-ac264657782b",
       "publishedAt": "2026-06-10T08:17:09.831Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -407,7 +351,7 @@
       "url": "https://jobs.lever.co/neowiz/c977653e-1360-4c18-a48b-452af618f650",
       "publishedAt": "2026-02-06T00:36:01.914Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -421,7 +365,7 @@
       "url": "https://jobs.lever.co/neowiz/d31e735f-b2df-4a3d-be7f-be6951653054",
       "publishedAt": "2026-08-03T06:41:01.655Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.722Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -435,7 +379,7 @@
       "url": "https://jobs.lever.co/neowiz/9a01f3d5-d026-42eb-8b7d-2b7daee28464",
       "publishedAt": "2026-07-24T09:05:48.382Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.723Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -449,7 +393,7 @@
       "url": "https://jobs.lever.co/neowiz/8fb74642-d16b-46d5-81a1-e15f62de6547",
       "publishedAt": "2026-05-13T07:46:44.414Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-08-26T04:04:49.723Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:15.983Z",
       "linkStatus": "official_detail_verified"
     }
   ]

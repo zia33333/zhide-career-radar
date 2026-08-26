@@ -1,7 +1,7 @@
 {
   "source": "散爆网络官方招聘",
   "sourceUrl": "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2",
-  "generatedAt": "2026-08-26T04:04:52.281Z",
+  "generatedAt": "2026-08-26T11:01:17.937Z",
   "count": 50,
   "items": [
     {
@@ -16,7 +16,7 @@
       "publishedAt": "2020-04-05T16:10:09",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/55bb7828-83cf-4381-896d-4574fc2ba1f9",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -31,7 +31,7 @@
       "publishedAt": "2026-01-06T19:26:13",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/d270fbcc-c3b5-4786-93d0-7ede269d0cd5",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -46,7 +46,7 @@
       "publishedAt": "2025-09-15T11:29:03",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/c3f9b616-57fb-4c7a-a465-e3c979d21cb0",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -61,22 +61,22 @@
       "publishedAt": "2025-08-19T16:44:53",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/94f97aa7-ec29-4e3f-b51d-9eb8fcdb7382",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
       "id": "09a50471-25a6-4cf3-9761-1c499eea2b81",
-      "title": "效能工具/构建开发工程师——追放",
+      "title": "构建开发工程师——追放",
       "company": "散爆网络",
       "location": "地点以官网为准",
       "category": "",
-      "description": "加入我们，更新世界的锋芒 我们不是在“填岗位”，我们在找 真正热爱创作、愿意为作品负责到底 的战友 在这里，你不会被流程和层级耗尽热情，而会被创作驱动、被作品打动 我们是一群对内容有执念的人，哪怕反复打磨、遭遇争议，也不轻易妥协 在散爆，每个人都能独立作战，也能协同破局 欢迎你来散爆—— 这是一群创作者为创作者打造的战场 \n\n 岗位职责： 负责各类工具程序框架及技术方案的设计与具体实现 负责将DevOps与项目需求结合，实现项目生产效率的提升 针对各个组的工具、工作流开出合理的方案 推动DevOps在生产各个环节的落地：性能优化、引擎底层、业务优化、工作流整合、自动化测试、构建等 \n 岗位要求： 从事过游戏行业相关的程序开发工作 3年以上游戏开发经验，技术栈丰富，熟悉工具链开发 编程语言：熟悉Java、Python、JS、C#、C++中的至少一种编程语言 有良好的文档编写能力，工具设计能力 对工具链、工作流优化感兴趣，且能进行灰度验证的方案设计 可能涉及到完全全新的领域，有较强的自我管理和任务跟进推动能力，具备独立研究并解决技术问题的能力 有一定iOS、Android原生开发经验（有相关经验优先） \n 加分项： 对成熟商业引擎（UE4/Unity3D）有较深入研究者优先 熟悉Blazor/WPF/Electron等客户端开发技术者优先 熟悉java技术栈、Springboot、有服务器开发经验优先 有效能、构建、DevOps开发经验者优先 有大型项目工作流 定制优先 具备AI辅助开发能力（如代码生成、调试与性能分析工具），能够利用生成式AI提升开发效率，支持快速原型实现、问题定位及代码质量优化。 \n\n 我们能提供的： 使命感与成就感 ：与一群热爱游戏的伙伴一起打造燃爆的内容 有竞争力的薪酬福利 ：五险一金，商业医疗保险，节假日礼品 专业成长路径 ：清晰的晋升通道，鼓励多项目跨界锻炼 自由坦率的沟通氛围 ：没有层级的障碍，欢迎任何“爆点”想法 \n 关于我们 散爆网络成立于2015年，是一家专注于二次元游戏开发的团队，代表作包括《少女前线》《少女前线2：追放》等，全球用户超千万。我们坚持“以内容为核心”，致力于创造“有战术深度、情感共鸣、文化表达”的作品。",
+      "description": "加入我们，更新世界的锋芒 我们不是在“填岗位”，我们在找 真正热爱创作、愿意为作品负责到底 的战友 在这里，你不会被流程和层级耗尽热情，而会被创作驱动、被作品打动 我们是一群对内容有执念的人，哪怕反复打磨、遭遇争议，也不轻易妥协 在散爆，每个人都能独立作战，也能协同破局 欢迎你来散爆—— 这是一群创作者为创作者打造的战场 \n\n 岗位职责： 负责游戏项目构建发布或 SDK 接入相关工作，支撑项目版本稳定交付。 参与 Unity 项目母包构建、版本制作、自动化打包、构建流程维护及问题排查。 参与 iOS、Android、Windows、PS5、鸿蒙等平台 SDK 接入、升级、维护及兼容性处理。 配合完成登录、支付、渠道、数据统计、广告、反作弊等 SDK 功能接入与验证。 维护构建脚本、CI/CD 流水线或 SDK 接入流程，提升版本制作和接入效率。 跟进构建发布、平台适配、SDK 接入过程中的异常问题，协助定位构建失败、签名异常、SDK 冲突、启动异常、Crash 等问题。 配合测试、运营、平台、发行等团队完成版本交付、问题反馈处理和上线支持。 沉淀构建发布、SDK 接入和常见问题排查文档。 岗位要求： 3 年以上游戏行业或客户端开发经验，具备构建发布或 SDK 接入任一方向经验即可。 熟悉 Unity 项目结构、构建流程，或熟悉常见游戏 SDK 接入流程。 熟悉 Android、iOS、Windows 等至少一个平台的构建、发布、调试或 SDK 接入流程。 具备 C#、Java、Objective-C、Swift、C++ 中一种或多种语言开发经验。 了解 Android Gradle、APK/AAB 打包、签名、权限、渠道包，或了解 iOS 证书、描述文件、TestFlight、App Store 提交流程。 具备基本的构建日志分析、Crash 日志分析、包体分析或 SDK 问题排查能力。 具备良好的沟通协作能力、执行力、文档意识和问题跟进能力。 加分项： 有 Jenkins、GitLab CI、TeamCity 等 CI/CD 工具使用经验。 有 Unity Hybrid 热更新、资源更新、补丁发布或多渠道版本交付经验。 有登录、支付、渠道、数据统计、广告、反作弊等 SDK 接入经验。 有多平台、多渠道或海外发行项目经验。 对 AI 工具、自动化构建、智能排障等方向有兴趣。 \n\n 我们能提供的： 使命感与成就感 ：与一群热爱游戏的伙伴一起打造燃爆的内容 有竞争力的薪酬福利 ：五险一金，商业医疗保险，节假日礼品 专业成长路径 ：清晰的晋升通道，鼓励多项目跨界锻炼 自由坦率的沟通氛围 ：没有层级的障碍，欢迎任何“爆点”想法 \n 关于我们 散爆网络成立于2015年，是一家专注于二次元游戏开发的团队，代表作包括《少女前线》《少女前线2：追放》等，全球用户超千万。我们坚持“以内容为核心”，致力于创造“有战术深度、情感共鸣、文化表达”的作品。",
       "requirements": "",
       "experience": "",
       "publishedAt": "2025-02-21T11:28:07",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/09a50471-25a6-4cf3-9761-1c499eea2b81",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -91,7 +91,7 @@
       "publishedAt": "2026-01-06T19:27:32",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/bfbb96ac-eb8c-4ad7-b114-508c4cb2b7cd",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -106,7 +106,7 @@
       "publishedAt": "2021-01-26T18:20:24",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/819e2177-cef1-4d72-b0c7-461d96d7bdd2",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -121,7 +121,7 @@
       "publishedAt": "2025-03-11T15:04:36",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/b065dcb0-c3f5-44c6-96a1-df668a8fde99",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -136,7 +136,7 @@
       "publishedAt": "2025-11-03T18:07:10",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/5d11f416-20d5-4ab7-8446-787dcc81c47d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -151,7 +151,7 @@
       "publishedAt": "2025-12-01T16:35:11",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/b90993ec-79e4-400b-b3c5-64228b8b7d0a",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -166,7 +166,7 @@
       "publishedAt": "2025-06-25T16:46:39",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/eded8ce4-a4c9-433f-af35-063896d235e2",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -181,7 +181,7 @@
       "publishedAt": "2025-03-04T14:49:59",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/129042c0-2dbf-45d5-b694-7adcbda3910e",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -196,7 +196,7 @@
       "publishedAt": "2025-05-20T11:34:52",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/d5c54adc-86f6-49a7-a2dc-3d36f8c4906e",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -211,7 +211,7 @@
       "publishedAt": "2025-03-11T14:43:26",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/d6ba31d3-7907-4b96-ae1e-19a763a4adb5",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -226,7 +226,22 @@
       "publishedAt": "2019-07-31T20:34:53",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/e4b06bfd-5253-4b78-a85f-3ca98707999f",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.274Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
+      "linkStatus": "official_detail_verified"
+    },
+    {
+      "id": "ca28d654-7249-4638-a8eb-a398b282cb52",
+      "title": "主美——指尖突围",
+      "company": "散爆网络",
+      "location": "地点以官网为准",
+      "category": "",
+      "description": "任职要求 1、熟悉二次元美术风格，精通2D比例设计与制作规范，能独立完成核心角色、场景的2D概念设计与定稿工作； 2、2D绘画功底扎实，色彩感觉敏锐，细节把控能力极强，审美贴合小游戏用户偏好； 3、拥有一款以上2D游戏项目研发经验，有2D游戏项目相关经验者优先，熟悉2D游戏美术制作全流程，能快速适配产品美术调性，具备美术质量管控相关经验； 4、具备优秀的需求理解能力，善于跨团队沟通协作，拥有一定的项目管理经验，能统筹美术任务、推进落地，带领团队达成项目美术目标。 \n 岗位职责 1、5年以上游戏美术工作经验，1年以上主美经验，精通 2D领域的游戏美术专业技能，熟悉 Unity 开发引擎，具备美术规范的梳理、总结与制定能力； 2、主导过游戏2D美术整体创作，独立完成核心角色、场景的2D概念设计与定稿，把控美术风格，制定美术创作规范； 3、热爱游戏开发，具备较强的主观能动性与责任心。",
+      "requirements": "",
+      "experience": "",
+      "publishedAt": "2026-08-26T14:33:30",
+      "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/ca28d654-7249-4638-a8eb-a398b282cb52",
+      "sourcePlatform": "Moka 企业官方招聘",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -241,7 +256,7 @@
       "publishedAt": "2026-08-13T18:44",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/60bfe0e6-b7bd-4afa-b928-ac4807b30f61",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -256,7 +271,7 @@
       "publishedAt": "2026-08-24T12:17:57",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/21e1126d-01cf-4c8f-99c8-261dae000f1c",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -271,7 +286,7 @@
       "publishedAt": "2026-08-19T17:47:14",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/a093f7c5-c41b-468b-acb3-ac01d34d627d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -286,7 +301,7 @@
       "publishedAt": "2026-08-17T16:58:18",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/072d378d-6190-4433-b124-a4eb0e97c3f9",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -301,7 +316,7 @@
       "publishedAt": "2026-08-14T15:18:35",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/6b30dd95-efe0-45c8-8c34-5e64a8aaa314",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -316,7 +331,7 @@
       "publishedAt": "2026-07-31T19:09:02",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/26d025c1-862e-4994-b582-502587eebd0e",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -331,7 +346,7 @@
       "publishedAt": "2026-08-05T17:51:08",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/c8b27573-74ed-416e-a219-13e71ae645e4",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -346,7 +361,7 @@
       "publishedAt": "2026-08-05T15:12:05",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/a23785d1-b3c5-4241-b30a-fc5a9b49d63c",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -361,7 +376,7 @@
       "publishedAt": "2026-06-29T14:37:53",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/2579be42-8bfb-4e5f-8173-74cdb7885a27",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.933Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -376,7 +391,7 @@
       "publishedAt": "2026-07-01T10:20:11",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/86cfec5b-8909-4d15-ab85-acf1c8d43637",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -391,7 +406,7 @@
       "publishedAt": "2026-07-30T16:49:50",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/8b65ae19-c0b4-4e4b-97f7-d3aa237dac60",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -406,7 +421,7 @@
       "publishedAt": "2026-07-29T19:11:47",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/7d425fc3-e7bc-4e80-b3c2-1f870160e6ef",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -421,7 +436,7 @@
       "publishedAt": "2026-07-29T17:53:51",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/107050fa-2035-403c-a348-f1a5978baa66",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.275Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -436,7 +451,7 @@
       "publishedAt": "2026-07-13T16:52:46",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/eb631029-fd0f-4f8f-8850-9819bde165f0",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -451,7 +466,7 @@
       "publishedAt": "2026-07-01T16:44:59",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/f0496665-893f-4cc3-ad18-b6cf298c2d58",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -466,7 +481,7 @@
       "publishedAt": "2026-07-06T19:05:20",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/f299c92b-59f2-4a43-98ca-c9409cfdfd91",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -481,7 +496,7 @@
       "publishedAt": "2026-07-01T18:39:44",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/7f6fd62c-7f3d-4b62-a65b-a220b5dc25bb",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -496,7 +511,7 @@
       "publishedAt": "2026-07-01T18:02:19",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/bc99bd7a-6aa2-4d9e-b180-bd449aa00398",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -511,7 +526,7 @@
       "publishedAt": "2026-06-29T17:12:29",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/4e946e80-ab91-448b-bcee-1b5a202417dd",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -526,7 +541,7 @@
       "publishedAt": "2026-07-01T17:52:12",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/5367c94e-b4a3-4494-b5d0-6ba2c507e704",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -541,7 +556,7 @@
       "publishedAt": "2026-07-01T17:40:01",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/3f1b000a-4b56-48a9-ad05-555d459da8fd",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -556,7 +571,7 @@
       "publishedAt": "2025-09-15T11:28:48",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/b1146f2a-76b7-4317-a735-39d4329feaef",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -571,7 +586,7 @@
       "publishedAt": "2026-06-29T15:02:40",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/f6f7fef1-d63a-4fdd-87b4-13d23853e979",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -586,7 +601,7 @@
       "publishedAt": "2026-06-18T17:58:10",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/148dd56b-dd54-4dab-aed2-12ae1544e754",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -601,7 +616,7 @@
       "publishedAt": "2026-06-18T16:57:10",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/a941de3a-1883-4a2a-b1af-d6f9a93c8bb1",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -616,7 +631,7 @@
       "publishedAt": "2026-06-18T14:09:19",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/650300f9-7b96-4d3f-bc9e-a216dc40bce7",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -631,7 +646,7 @@
       "publishedAt": "2026-06-18T14:36:41",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/ebf01a1a-defa-4487-91af-5f35b99866d8",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -646,7 +661,7 @@
       "publishedAt": "2026-06-26T10:41:59",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/44ce1f08-3257-4ccc-acfa-5c82c53cad66",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -661,7 +676,7 @@
       "publishedAt": "2026-06-25T12:11:21",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/90170807-72d3-4962-af0c-7b2adf91ff35",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -676,7 +691,7 @@
       "publishedAt": "2026-06-24T17:35:05",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/62d54964-2387-452e-8ddb-3961cbed9a05",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -691,7 +706,7 @@
       "publishedAt": "2026-06-16T14:46:11",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/0395a94c-40fc-444d-8693-9b43779b7968",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -706,7 +721,7 @@
       "publishedAt": "2026-06-10T14:53:58",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/4fefc370-7ed0-4aac-9d4c-6e3510a0d18d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -721,7 +736,7 @@
       "publishedAt": "2026-06-10T14:34:27",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/7b3722f3-2436-4627-880e-03ea6f2ccd7a",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -736,22 +751,7 @@
       "publishedAt": "2026-06-10T14:22:48",
       "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/d35fab5d-4227-4432-b454-16ec18195edb",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "dbbfe1ff-665d-4cbe-a690-e14e5b0eb423",
-      "title": "高级Unity客户端开发（枪械向）——蓝蝶契约",
-      "company": "散爆网络",
-      "location": "地点以官网为准",
-      "category": "",
-      "description": "加入我们，更新世界的锋芒 我们不是在“填岗位”，我们在找 真正热爱创作、愿意为作品负责到底 的战友 在这里，你不会被流程和层级耗尽热情，而会被创作驱动、被作品打动 我们是一群对内容有执念的人，哪怕反复打磨、遭遇争议，也不轻易妥协 在散爆，每个人都能独立作战，也能协同破局 欢迎你来散爆—— 这是一群创作者为创作者打造的战场 \n \n 岗位职责： 1.负责枪械核心机制开发与体验优化，包括开火、后坐力、瞄准、命中反馈等。 2.负责战斗相机和镜头表现相关功能开发与调优。 3.联动角色、动画、特效和音频，打磨整体射击手感。 4.参与射击体验问题定位和专项优化。 \n 任职要求： 1.熟悉 Unity 客户端开发，有射击游戏相关经验。 2.熟悉枪械状态机、相机逻辑、输入反馈和镜头表现。 3.能独立推动枪械与相机体验优化，不只做功能实现。 4.对射击手感、反馈一致性和玩家体验有较高敏感度。 \n 加分项 1.熟悉ECS， 有 TPS/FPS 项目经验。 2.有瞄准辅助、镜头动画、屏幕反馈和命中判定联调经验。 3.对主机/PC 射击体验有深入理解。 4.AI辅助开发经验 \n 我们能提供的： 使命感与成就感 ：与一群热爱游戏的伙伴一起打造燃爆的内容 有竞争力的薪酬福利 ：五险一金，商业医疗保险，节假日礼品 专业成长路径 ：清晰的晋升通道，鼓励多项目跨界锻炼 自由坦率的沟通氛围 ：没有层级的障碍，欢迎任何“爆点”想法 \n 关于我们 散爆网络成立于2015年，是一家专注于二次元游戏开发的团队，代表作包括《少女前线》《少女前线2：追放》等，全球用户超千万。我们坚持“以内容为核心”，致力于创造“有战术深度、情感共鸣、文化表达”的作品。",
-      "requirements": "",
-      "experience": "",
-      "publishedAt": "2026-06-10T13:58:02",
-      "url": "https://app.mokahr.com/social-recruitment/micateam/142158#/job/dbbfe1ff-665d-4cbe-a690-e14e5b0eb423",
-      "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-08-26T04:04:52.276Z",
+      "sourceVerifiedAt": "2026-08-26T11:01:17.934Z",
       "linkStatus": "official_detail_verified"
     }
   ]
