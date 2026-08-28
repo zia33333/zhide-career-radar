@@ -3,6 +3,7 @@ import fs from "node:fs/promises"
 const sourceUrl="https://www.yotta-hr.com/zh/social"
 const endpoint="https://www.yotta-hr.com/web-api/jobs/get-online-jobs"
 const outputPath=new URL("../data/yotta-jobs.json",import.meta.url)
+const liteOutputPath=new URL("../data/yotta-jobs-lite.json",import.meta.url)
 
 const response=await fetch(endpoint,{
   method:"POST",
@@ -33,4 +34,8 @@ const items=jobs.filter(job=>job.apply_type==="社招").map(job=>{
 
 await fs.mkdir(new URL("../data/",import.meta.url),{recursive:true})
 await fs.writeFile(outputPath,JSON.stringify({source:"Yotta Games 官方社招",sourceUrl,generatedAt:new Date().toISOString(),count:items.length,items},null,2)+"\n")
+const liteItems=items.map(({id,title,company,location,category,education,experience,url,sourcePlatform,sourceVerifiedAt,linkStatus})=>({
+  id,title,company,location,category,education,experience,url,sourcePlatform,sourceVerifiedAt,linkStatus
+}))
+await fs.writeFile(liteOutputPath,JSON.stringify({source:"Yotta Games 官方社招轻量索引",sourceUrl,generatedAt:new Date().toISOString(),count:liteItems.length,items:liteItems})+"\n")
 console.log(`Wrote ${items.length} Yotta jobs`)
