@@ -1,9 +1,24 @@
 {
   "source": "电魂网络官方招聘",
   "sourceUrl": "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2",
-  "generatedAt": "2026-09-08T09:27:23.261Z",
-  "count": 7,
+  "generatedAt": "2026-09-09T01:26:43.984Z",
+  "count": 8,
   "items": [
+    {
+      "id": "2e3b6569-2d4b-47d4-8920-5f4e25d07630",
+      "title": "游戏剧情策划-修仙/武侠/仙侠文风",
+      "company": "电魂网络",
+      "location": "地点以官网为准",
+      "category": "我的封神项目",
+      "description": "",
+      "requirements": "",
+      "experience": "全职",
+      "publishedAt": "2026-09-08T18:55:06",
+      "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/2e3b6569-2d4b-47d4-8920-5f4e25d07630",
+      "sourcePlatform": "Moka 企业官方招聘",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
+      "linkStatus": "official_detail_verified"
+    },
     {
       "id": "8dd701c3-22e0-4137-b9ce-6c90e8407b8d",
       "title": "高级特效设计师",
@@ -16,7 +31,7 @@
       "publishedAt": "2026-08-17T16:16:29",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/8dd701c3-22e0-4137-b9ce-6c90e8407b8d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -31,7 +46,7 @@
       "publishedAt": "2026-07-03T16:05:38",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/625d0dfd-93f3-4e75-bf8d-5081447fb233",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -46,7 +61,7 @@
       "publishedAt": "2026-06-02T17:32:40",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/c876d498-d06d-4cfd-b328-faeb264dfba5",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -61,7 +76,7 @@
       "publishedAt": "2026-05-15T11:07:53",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/ae595cb2-53c0-4651-89f4-ec0c3783a1c3",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -76,7 +91,7 @@
       "publishedAt": "2026-01-04T15:55:35",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/f5fdb466-f6b2-47a5-b360-d0567f4b2f6d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -91,7 +106,7 @@
       "publishedAt": "2025-08-29T10:12:38",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/cad8fae2-3e38-4e5c-b57d-b6f37a7632a9",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -106,7 +121,7 @@
       "publishedAt": "2026-08-18T11:07:14",
       "url": "https://app.mokahr.com/social-recruitment/dianhun/55952#/job/ab38094e-3a28-4a18-90a7-06b4fb48a397",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-08T09:27:22.547Z",
+      "sourceVerifiedAt": "2026-09-09T01:26:43.122Z",
       "linkStatus": "official_detail_verified"
     }
   ]
