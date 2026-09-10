@@ -1,23 +1,9 @@
 {
   "source": "NEOWIZ 官方招聘",
   "sourceUrl": "https://api.lever.co/v0/postings/neowiz?mode=json",
-  "generatedAt": "2026-09-10T01:25:15.770Z",
-  "count": 18,
+  "generatedAt": "2026-09-10T09:27:02.338Z",
+  "count": 17,
   "items": [
-    {
-      "id": "c3704f2e-5921-49f2-a9c2-8857696d846f",
-      "title": "[ASTRA9 Studio] 내러티브 중심 RPG 신작 프로젝트 클라이언트 프로그래머",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Game Engineering / ASTRA9 Studio / Regular(Full-time)",
-      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. ASTRA9 Studio 소개ASTRA9 Studio는 게임을 진심으로 즐기는 게이머들이 모여, 유저의 마음에 영원히 살아 숨쉴 별들을 만들어 가는 곳입니다. 플레이어의 시선에서 함께 몰입하며 게임이 주는 순수한 즐거움에 공감하고, 누군가의 가슴속에 영원한 별로 남을 ‘인생 게임’을 함께 만들어갈 진짜 게이머인 동료를 모십니다. 팀 프로젝트 소개 RPG 신작 프로젝트에서는 글로벌 PC/콘솔 시장을 목표로 스토리 중심의 RPG 신작을 개발하고 있습니다. 깊은 스토리와 다층적 캐릭터 빌딩으로 인상적인 게임 내러티브를 선사하는 것을 목표로 하며, 재미있는 게임이자 마음을 움직이는 이야기를 완성하기 위해 노력하고 있습니다.",
-      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/c3704f2e-5921-49f2-a9c2-8857696d846f",
-      "publishedAt": "2026-03-26T07:53:03.936Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
-      "linkStatus": "official_detail_verified"
-    },
     {
       "id": "5ad83a87-38c2-4441-81da-5ab73e3217fc",
       "title": "[NOUGH Studio] P의 거짓 차기작 3D 캐릭터 모델러",
@@ -29,7 +15,21 @@
       "url": "https://jobs.lever.co/neowiz/5ad83a87-38c2-4441-81da-5ab73e3217fc",
       "publishedAt": "2026-07-29T08:10:18.130Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
+      "linkStatus": "official_detail_verified"
+    },
+    {
+      "id": "ab204112-58fd-4560-a9eb-6661267eb042",
+      "title": "[NOUGH 스튜디오] P의 거짓 차기작 캐릭터 컨셉아티스트",
+      "company": "NEOWIZ",
+      "location": "NEOWIZ",
+      "category": "Game Art & Creative / Lies of P 차기작 / Regular(Full-time)",
+      "description": "네오위즈는 강렬한 내러티브와 독보적인 완성도를 선보이는 글로벌 게임사입니다. 우리는 전 세계 인재들과 함께 일하며 최적의 결과물을 만들어냅니다. 부터 , , , 등 장르와 플랫폼의 경계를 넘어 전 세계 플레이어들에게 최상의 게임 경험을 선사합니다. 프로젝트 소개 \"P의 거짓\" 차기작 캐릭터 컨셉아티스트를 모십니다. 언리얼엔진5 기반으로 최고 수준의 그래픽과 심도있는 레벨 디자인, 강렬한 액션의 경험을 선사하고자 합니다. 부서 소개 NOUGH 스튜디오는 게임을 좋아하고 항상 게임을 플레이하며, 게임이 주는 즐거움에 진정으로 공감하는 사람들이 게임을 만드는 곳입니다. 게임을 좋아하지 않거나, 플레이하지 않는 분들의 지원을 정중히 사양하고 있으니 양해 부탁 드립니다.",
+      "requirements": "지원 시, 아래 내용을 꼭 확인해주세요 - 이력서 파일을 첨부할 때, 우측에 \"couldn't auto-read resume. Please refresh and try again\"라는 메세지가 나와도 지원이 가능합니다. 지원페이지 작성 완료 후 \"submit application\"을 눌러 지원을 완료해주세요. - 이력서, 포트폴리오는 PDF 또는 Word 파일로 첨부 부탁드립니다. (hwp 파일 지원 불가) - 이력서 및 포트폴리오에 연봉 정보를 기입하지 마시고, 지원 항목에 있는 연봉 정보 기입 칸에 작성해주세요. - 이름란에는 영문명이 아닌 한글명을 기입해주세요. - 이력서 등 제출서류에는 가족사항, 출신지, 주민등록번호 등 불필요한 개인정보의 기재를 금지합니다. [근무장소] 네오위즈 본사 (판교) [급여수준] 회사 내규에 따름 (면접 후 협의에 따라 결정) [근무시간] 네오위즈는 선택적 근로시간제를 진행하고 있습니다. [전형절차] - 정규직/계약직 : 서류 전형 → 1차 인터뷰 전형 → 2차 인터뷰 전형 → 처우 협의 → 입사 - 인턴 : 서류 전형 → 인터뷰 전형 → 입사 * 전형 과정 중 필요에 따라 사전 안내 후 과제, 테스트, 포트폴리오 등을 요청할 수 있습니다. * 당사 채용 프로세스의 일환으로, 1차 인터뷰 전형 합격자에 한하여 레퍼런스 체크를 요청드릴 수 있습니다. [기타] - 채용여부가 확정된 날 이후부터 14일 이내 반환청구 시 제출 서류를 반환 받을 수 있습니다. - 본 공고는 채용 시 마감되는 공고이며, 적합한 인력 채용 시 조기 마감될 수 있습니다. - 국가보훈대상자는 관련법규에 의거, 우대합니다. 보훈자는 입사지원 시, 취업지원대상증명서를 증빙서류로 제출해주세요. ※ 문의 : talent@neowiz.com",
+      "url": "https://jobs.lever.co/neowiz/ab204112-58fd-4560-a9eb-6661267eb042",
+      "publishedAt": "2026-09-10T00:21:56.373Z",
+      "sourcePlatform": "Lever",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://jobs.lever.co/neowiz/558c52dc-e247-4b33-99a0-9cd92932fee4",
       "publishedAt": "2026-07-28T08:51:18.483Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://jobs.lever.co/neowiz/7995486e-3cee-4cf5-9c9b-652ba22450c8",
       "publishedAt": "2026-07-30T10:26:46.246Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://jobs.lever.co/neowiz/7de35c5d-137c-4c03-9453-5f93228899f7",
       "publishedAt": "2026-07-30T10:14:50.175Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -85,7 +85,7 @@
       "url": "https://jobs.lever.co/neowiz/1868965d-cc2d-4c3b-8ba4-98baccec3515",
       "publishedAt": "2026-06-22T09:36:23.822Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -99,7 +99,7 @@
       "url": "https://jobs.lever.co/neowiz/0a492269-2cbd-44b4-9c7c-83809ff52e4d",
       "publishedAt": "2023-04-11T05:17:34.004Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -113,7 +113,7 @@
       "url": "https://jobs.lever.co/neowiz/c74ffadf-1e4e-4a3e-8ec3-fde9cc8f2aa3",
       "publishedAt": "2022-03-08T00:35:39.285Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -127,7 +127,7 @@
       "url": "https://jobs.lever.co/neowiz/75932945-7224-4368-84bd-dcde43348d6e",
       "publishedAt": "2026-01-26T13:57:08.575Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.767Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -141,21 +141,7 @@
       "url": "https://jobs.lever.co/neowiz/f23d7481-0340-4bdf-a9f8-f31ade4cefe8",
       "publishedAt": "2026-06-10T08:23:57.515Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "8513459e-6434-453a-9855-97b447039118",
-      "title": "Content & Community Marketing Manager (China)",
-      "company": "NEOWIZ",
-      "location": "NEOWIZ",
-      "category": "Branding & Marketing / Regular(Full-time)",
-      "description": "About NEOWIZNEOWIZ is a game developer and publisher defined by gripping narratives and uncompromising quality. Collaborating with creative talent worldwide, we create original gaming experiences that push boundaries and captivate players globally. From Lies of P to DJMAX RESPECT V, Cats & Soup, SANABI, and Skul: The Hero Slayer, we service distinct IPs across a wide range of genres, delivering fresh gaming experiences to players worldwide. Position Overview NEOWIZ is seeking a highly skilled and visionary Content & Community Marketing Manager (China) to drive our regional player ecosystem and brand presence in the Chinese market. In this role, you will design and execute data-driven community operation strategies based on deep insights into Chinese user behavior, platform cultures, and emerging market trends, ensuring our gaming titles resonate powerfully with the target audience from launch through live service. Taking full ownership of our regional footprint, you will manage official Chinese SNS and gaming platforms—including Bilibili, Weibo, Xiaoheihe, Rednote, QQ groups, and TapTap—by planning highly localized content, interactive events, and UGC activation programs. You will serve as a vital bridge between players and leadership by monitoring VOC, managing sentiment risks, and translating community insights into actionable user experience improvements for our development teams. To amplify market reach, you will cultivate strategic partnerships with local creators and lead high-impact online/offline engagement programs like exhibitions and pop-up events. This role requires exceptional cross-functional leadership, collaborating closely with internal marketing, publishing, localization, CS, and external agency partners to elevate player retention and deliver an unparalleled community experience. Work location : Shanghai, China Nationality Requirement: Chinese-speaking Regions (Greater China)",
-      "requirements": "Join Our Team We're looking for exceptional talent who can help us scale globally while keeping our creative edge sharp. 🛠️ Hiring Process We keep things clear and straightforward: - Resume Screening - Job Function/Hiring Manager Interview - Stakeholder/Leadership Interview - Offer Discussion - Welcome Aboard! Additional Information - Submitted documents can be returned within 14 days upon request after the hiring decision. - This job posting will close once the position is filled and may end early if a suitable candidate is found. - Veterans will be given preferential treatment in accordance with applicable laws. Please submit proof of eligibility when applying. Ready for Your Next Challenge? Create magic with us. Build games that make the world more enjoyable. 👉 neowiz.com/games ✉️ Questions? Hit us up: talent@neowiz.com",
-      "url": "https://jobs.lever.co/neowiz/8513459e-6434-453a-9855-97b447039118",
-      "publishedAt": "2026-06-09T07:13:32.678Z",
-      "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -169,7 +155,7 @@
       "url": "https://jobs.lever.co/neowiz/ec52d20a-20d1-4621-9b34-cd3ab123c5e0",
       "publishedAt": "2026-08-25T02:52:14.573Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.336Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -183,7 +169,7 @@
       "url": "https://jobs.lever.co/neowiz/3aee6e8e-e98b-4ce5-a4ff-a6d2a41ab78f",
       "publishedAt": "2026-08-13T06:30:01.094Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.337Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -197,7 +183,7 @@
       "url": "https://jobs.lever.co/neowiz/2f718f75-1e42-45b8-8697-ac264657782b",
       "publishedAt": "2026-06-10T08:17:09.831Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.337Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -211,7 +197,7 @@
       "url": "https://jobs.lever.co/neowiz/c977653e-1360-4c18-a48b-452af618f650",
       "publishedAt": "2026-02-06T00:36:01.914Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.768Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.337Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -225,7 +211,7 @@
       "url": "https://jobs.lever.co/neowiz/fdccb086-3288-4ca9-a5a8-25a797f99572",
       "publishedAt": "2026-09-04T01:15:01.435Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.769Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.337Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -239,7 +225,7 @@
       "url": "https://jobs.lever.co/neowiz/8fb74642-d16b-46d5-81a1-e15f62de6547",
       "publishedAt": "2026-05-13T07:46:44.414Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.769Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.337Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -253,7 +239,7 @@
       "url": "https://jobs.lever.co/neowiz/7476e356-86e6-44a0-a3a0-7435903d39e1",
       "publishedAt": "2026-09-01T02:35:34.117Z",
       "sourcePlatform": "Lever",
-      "sourceVerifiedAt": "2026-09-10T01:25:15.769Z",
+      "sourceVerifiedAt": "2026-09-10T09:27:02.338Z",
       "linkStatus": "official_detail_verified"
     }
   ]
