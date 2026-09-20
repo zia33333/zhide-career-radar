@@ -1,8 +1,8 @@
 {
   "source": "游族网络官方招聘",
   "sourceUrl": "https://app.mokahr.com/api/outer/ats-apply/website/jobs/v2",
-  "generatedAt": "2026-09-20T01:24:22.758Z",
-  "count": 10,
+  "generatedAt": "2026-09-20T09:24:13.980Z",
+  "count": 9,
   "items": [
     {
       "id": "c849cb23-222e-4af7-96b8-6278b219f326",
@@ -16,7 +16,7 @@
       "publishedAt": "2026-08-11T12:05:35",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/c849cb23-222e-4af7-96b8-6278b219f326",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -31,22 +31,7 @@
       "publishedAt": "2026-08-11T15:28:14",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/4e664344-b894-4213-ab7a-d04bf2f74c7e",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
-      "linkStatus": "official_detail_verified"
-    },
-    {
-      "id": "a1fe78bc-c075-44ba-96f5-ad371a59a16c",
-      "title": "AI全栈工程师（主后端）",
-      "company": "游族网络",
-      "location": "徐汇区",
-      "category": "发行平台",
-      "description": "一、岗位职责 1. 负责游戏产品后端服务的设计、开发、上线及持续维护； 2. 负责游戏核心业务模块及服务端功能的开发与迭代； 3. 参与后端系统架构设计与技术方案评审，持续提升系统的可扩展性、可维护性和稳定性； 4. 负责服务性能优化、线上问题排查及故障处理，保障服务器稳定、高效运行； 5. 与客户端、产品、测试及运维团队紧密协作，推动项目高质量交付。 \n 二、任职要求 1. 本科及以上学历，计算机、软件工程或相关专业，具备 3 年及以上后端开发经验； 2. 熟练掌握 Go、Java、C++ 中至少一种编程语言，具备良好的编码习惯和工程化能力； 3. 熟悉分布式系统的设计与开发，有完整游戏项目落地经验； 4. 熟练掌握 MySQL，理解分库分表、索引优化、事务隔离级别及锁机制等核心原理； 5. 熟悉 Redis，具备缓存设计、分布式锁及热点数据处理经验；了解 MongoDB 等常用数据库； 6. 熟悉 HTTP、WebSocket、TCP 等网络协议，具备网络服务开发和问题排查能力； 7. 熟悉 Linux 开发及部署环境，具备 Docker、Kubernetes（K8s）等容器化技术的使用经验； 8. 具备良好的问题分析、沟通协作和持续学习能力，对代码质量和系统稳定性有较强责任心。 9. 有 AI 辅助编程（Vibe Coding）实践经验，熟悉 Agent Skill、MCP 等相关工具或协议。 \n 三、加分项 1. 有 Unity、Unreal Engine 或 Cocos 等游戏引擎的使用或对接经验； 2. 有高并发、低延迟游戏服务器的设计、开发或性能优化经验；",
-      "requirements": "",
-      "experience": "全职",
-      "publishedAt": "2026-07-16T11:39:01",
-      "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/a1fe78bc-c075-44ba-96f5-ad371a59a16c",
-      "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -61,7 +46,7 @@
       "publishedAt": "2026-06-08T16:25:39",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/0e1f93ef-5a2c-487e-84bf-5697aa46071d",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -76,7 +61,7 @@
       "publishedAt": "2026-06-01T17:38:38",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/4849d35d-6885-4290-82c0-8280ec0a11de",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -91,7 +76,7 @@
       "publishedAt": "2026-02-07T10:27:40",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/983c3bac-dd8c-4bd8-a1bf-d8265739732b",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -106,7 +91,7 @@
       "publishedAt": "2025-09-16T16:24:55",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/ea63d0b9-657f-46c2-930b-6dc63e14503b",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.548Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -121,7 +106,7 @@
       "publishedAt": "2025-09-18T18:29:11",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/8b4c0fa2-9387-47c9-aa43-2466d24c7d33",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.549Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -136,7 +121,7 @@
       "publishedAt": "2025-09-26T10:34:24",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/37d5bd92-31d7-48eb-a53f-5418c71b563f",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.549Z",
       "linkStatus": "official_detail_verified"
     },
     {
@@ -151,7 +136,7 @@
       "publishedAt": "2025-09-18T18:53:53",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/0b41d89a-47d7-4a06-857a-76153f7d6be6",
       "sourcePlatform": "Moka 企业官方招聘",
-      "sourceVerifiedAt": "2026-09-20T01:24:21.251Z",
+      "sourceVerifiedAt": "2026-09-20T09:24:12.549Z",
       "linkStatus": "official_detail_verified"
     }
   ]
