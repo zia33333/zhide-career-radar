@@ -1,9 +1,40 @@
 {
   "source": "V2EX 酷工作",
   "sourceUrl": "https://www.v2ex.com/feed/jobs.json",
-  "generatedAt": "2026-10-19T06:11:44.502Z",
-  "count": 36,
+  "generatedAt": "2026-10-19T16:27:17.265Z",
+  "count": 35,
   "items": [
+    {
+      "id": "https://www.v2ex.com/t/1250118",
+      "title": "[成都/Remote] [急招] Backend Engineer（Trading Platform）",
+      "url": "https://www.v2ex.com/t/1250118",
+      "author": "upupxjg",
+      "publishedAt": "2026-10-19T12:26:59+00:00",
+      "summary": "关于我们 \n 我们是一家专注于 交易技术与流动性服务 的团队，主要服务头部机构客户。当前核心\n系统已完成初步上线，正处于快速迭代与规模化扩展阶段。 \n 我们正在招聘一位 Backend Engineer ，参与交易平台及核心业务系统的开发。你将直接\n参与对外 API 、核心业务逻辑以及交易相关系统的工程实现，在一个小而精的团队中承担重\n要角色。 \n 在这里，你不仅是功能的实现者，更是系统演进的参与者。你将有机会深入真实业务场景\n，参与系统从 1 → N 的持续迭代，并在不断变化的需求中提升工程判断与实现能力。 \n 我们提供具有竞争力的薪酬与回报机制，并根据个人成长与贡献提供持续的薪酬提升空间\n。在团队快速发展的阶段，优秀的工程师将获得与能力匹配的回报与成长机会。 \n 如果你希望在真实问题中快速成长，并在高 ownership 的环境中持续推进事情，这将是\n一个非常合适的机会。 \n 岗位职责 \n \n 设计与开发对外 API 平台（交易、账户及相关业务接口） \n 负责核心业务逻辑开发（订单、账户、风控等相关模块） \n 参与交易相关系统的开发与优化 \n 对接外部系统，处理实时数据与业务流程 \n 持续优化系统稳定性、性能及可观测性 \n 在快速迭代的环境中持续交付高质量代码，并根据业务变化不断优化系统设计 \n 在小团队环境中主动推动问题解决与系统改进 \n 与业务及工程团队紧密协作，推动需求落地 \n \n 技术栈 \n \n Golang / Python （根据不同场景使用，语言不是核心卡点） \n 常见后端技术体系（ API 、数据库、并发处理等） \n K8s / Docker / Linux",
+      "linkStatus": "feed_listed",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.261Z",
+      "roleFamilies": [
+        "technology",
+        "design"
+      ]
+    },
+    {
+      "id": "https://www.v2ex.com/t/1250107",
+      "title": "招聘：\r\nPosition 一： CTO\r\nPosition 二：市场负责人/市场经理",
+      "url": "https://www.v2ex.com/t/1250107",
+      "author": "justinX",
+      "publishedAt": "2026-10-19T11:21:38+00:00",
+      "summary": "Hot/New Jobs:\n\nPosition 一：CTO\nJob Type: Full-Time ，Remote\nPS：\n岗位职责：\n负责公司交易/技术体系的整体架构设计、技术路线制定与核心系统稳定性保障。\n统筹技术团队管理与研发流程，推动交易基础设施、系统性能和安全能力的持续优化。\n以远程协作方式对接业务、产品和运营团队，支持公司业务扩张与技术落地。\n任职要求：\n具备一二线交易所 CTO 或技术总监背景，熟悉交易所核心系统与技术团队管理。\n或具备私募量化、AI 机器人相关技术背景，理解高并发、低延迟或自动化系统的工程实践。\n具备远程团队管理经验，能够独立推动技术项目从规划到落地。\n\nPosition 二：市场负责人/市场经理\nJob Type: Full-Time ，Remote\nPS：\n岗位职责：\n负责制定并执行公司市场策略，推动品牌曝光、用户增长和市场活动落地。\n统筹市场团队、渠道、内容和活动资源，跟踪市场效果并持续优化投入产出。\n对接行业生态、媒体、社区及合作伙伴，支持公司业务增长和国际化市场拓展。\n任职要求：\n具备一二线交易所市场相关背景，熟悉 Crypto 行业市场推广和用户增长逻辑。\n有市场团队管理或独立负责市场项目的经验，能推进品牌、活动、渠道和内容协同落地。\n具备远程协作和跨团队沟通能力，执行力强，能根据市场变化快速调整策略。\n\n请携带简历咨询，谢谢；\n[社交账号请查看原帖]\nE: [邮箱请查看原帖]",
+      "linkStatus": "feed_listed",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.262Z",
+      "roleFamilies": [
+        "marketing",
+        "operations",
+        "technology",
+        "design",
+        "sales"
+      ]
+    },
     {
       "id": "https://www.v2ex.com/t/1249872",
       "title": "招聘： AI 质量评估工程师",
@@ -12,7 +43,7 @@
       "publishedAt": "2026-10-19T01:26:14+00:00",
       "summary": "岗位名称：AI 质量评估工程师\n\n薪资：20-35k·13 薪 ｜ 常州·新北区 ｜ 3-5 年 ｜ 统招本科及以上\n\n岗位职责\n\n负责公司 AI 平台的质量保障，从 0 到 1 搭建质量与评测体系——你是 owner ，不是执行者；\n构建面向大模型/Agent 系统的评测体系：评测数据集、golden set 、LLM-as-judge 、回归测试资产；\n对商业秘密防护、大模型使用合规等安全能力进行对抗性验证；\n深度使用 AI 工具完成用例生成、代码审查、质量分析，沉淀 AI 驱动的测试工作流，让 AI 放大你的产出；\n参与公司产品的测试方案设计与执行，覆盖功能测试、接口测试、性能测试及兼容性测试；\n搭建并维护自动化测试框架，编写自动化测试脚本，持续集成到 CI/CD 流水线；\n参与需求评审和技术方案评审，从测试视角提出风险点和改进建议；\n负责缺陷跟踪与管理，推动开发团队及时修复，保障版本发布质量；\n编写测试计划、测试用例及测试报告，沉淀测试知识库。\n任职要求\n\n统招本科及以上学历，计算机、软件工程、人工智能、数学等相关专业优先；\n3 年以上软件测试经验，具备扎实的测试理论基础，熟悉测试用例设计方法；\n编码能力强：熟练 Python/Java 至少一种，能独立编写自动化测试脚本，能读懂 Rust 优先；\n深度使用 AI 编程工具（ Cursor/Claude/Copilot 等）开展工作，有完整的 AI 工作流，能专业审核 AI 产出——必要项，面试必聊；\n有质量体系从 0 到 1 搭建的意愿和能力，不满足于点点点；\n熟悉常用测试工具和框架，如 Pytest 、Seleniu",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.498Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.262Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -26,7 +57,7 @@
       "publishedAt": "2026-10-18T09:50:58+00:00",
       "summary": "Position 一：机构 BDM\nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责开发维护机构客户、交易公司和战略伙伴，推动区域及国际业务拓展，并协调客户接入、代表公司参会以支持长期增长。\n2 、本科以上、2/8 年机构销售/业务拓展/合作管理经验，具备 Crypto 、衍生品及机构交易生态背景，中英文流利，有港新跨境市场、交易所/做市商/流动性资源者优先。\n\nPosition 二：C++低延迟交易系统工程师\nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责用现代 C++开发优化加密衍生品高频交易系统，覆盖行情、订单管理、执行、风控、仓位、监控及交易所 API 连接与故障排查。\n2 、本科以上、2/7 年 C++低延迟或交易系统经验，熟悉 Linux 、多线程、网络编程和衍生品订单生命周期，有 HFT/做市/OMS/交易所 API 及 NUMA 、lock-free 、DPDK/RDMA 、Rust/Python/K8s 等经验优先。\n\nPosition 三：量化策略研究员（高频交易与做市）\nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责研究加密货币衍生品高频、做市和短周期策略，分析订单簿与订单流，构建考虑手续费、滑点、排队和延迟的回测仿真，并优化报价、库存、对冲与实盘验证。\n2 、本科以上、2/7 年量化/算法交易/做市经验，具备 Crypto 衍生品研究、概率统计与 Python 回测能力，熟悉执行约束和偏差识别，有永续/",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.499Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.263Z",
       "roleFamilies": [
         "marketing",
         "technology",
@@ -42,7 +73,7 @@
       "publishedAt": "2026-10-18T04:40:20+00:00",
       "summary": "SEO 增长专员（社招） \n 工作年限： 3 ～ 5 年\n\n 学历要求： 全日制本科及以上\n\n 工作地点： 深圳／杭州／远程\n\n 薪酬： 面议 \n 岗位职责 \n \n 制定并持续优化 SEO 与 GEO 增长策略，推动自然搜索流量、内容曝光及业务转化增长。 \n 开展关键词研究、搜索意图分析和内容策略规划，结合用户需求与业务目标，推动内容选题和页面优化。 \n 跟踪收录、排名、展现、点击、自然流量及转化等数据，分析表现并提出可执行的优化方案。 \n 发现并跟进技术 SEO 问题，包括抓取与索引、页面结构、内链、canonical 、robots 、sitemap 、结构化数据及页面性能等。 \n 探索 GEO 和 AI 搜索优化，关注品牌及内容在 AI 搜索和答案中的引用表现，持续优化内容结构与信息呈现。 \n 与产品、内容、研发和增长团队协作，推动优化方案落地，并跟踪、复盘实际效果。 \n \n 任职要求 \n \n 3 ～ 5 年 SEO 相关工作经验，有 SEO 和 GEO 实践经验，能够独立负责项目并推动落地。 \n 全日制本科及以上学历。 \n 具备内容策略分析能力，能结合用户需求、搜索意图和业务目标制定内容优化方向。 \n 熟悉 Google Search Console 、GA4 等数据分析工具；有 Ahrefs 、Semrush 等工具经验更佳。 \n 对业务数据敏感，能够从流量、排名、收录和转化表现中发现问题、分析原因并提出改进方案。 \n 能清晰说明过往工作经历和项目贡献，包括项目目标、个人职责、关键行动、数据表现及复盘结论。 \n 具备良好的沟通协作和项目推进能力。 \n \n 加分项 \n ",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.499Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.263Z",
       "roleFamilies": [
         "marketing",
         "technology"
@@ -56,7 +87,7 @@
       "publishedAt": "2026-10-17T08:16:53+00:00",
       "summary": "更新了一批 SHEIN 当前南京 base 的全量近 70 个技术类岗位和对应薪资（上次发布是 3 个月前），\n整体薪资大致在 20K-90K 。南京是 SHEIN 总部所在地，技术岗 HC 相较其他城市也确实更多一些。\n\n方向覆盖算法、Java 后台、测试、数据/数仓、安全、架构、前端等，适合想看跨境电商、平台治理、广告商业化、智能客服、供应链、风控等复杂业务场景的技术同学。\n\n岗位结构&薪资速览：\n\n1️⃣ 算法 / AI 方向｜约 30%｜ 35K-90K\n广告商业化、海外广告、搜推、NLP 、智能客服、商品治理、营销/商家风控、活动选品、价格策略、流量反作弊、供应链算法等。\n其中算法专家/TL 、搜推、广告投放方向薪资更高，部分可到 60K-90K 。\n\n2️⃣ Java / 后台开发｜约 25%｜ 20K-60K\n审核、风控治理、价格管理、库存、商品服务、智能客服、法务、研发效能、搜广推后台等。更看重复杂系统设计、高并发、稳定性和业务抽象能力。\n\n3️⃣ 测试 / 测试开发｜约 15%｜ 15K-65K\n平台治理、用户营销、库存、商家、电商客服域、法务等方向。偏自动化、质量体系、服务端/移动端测试、稳定性保障。\n\n4️⃣ 数据 / 数仓 / 大数据 / 数据库｜约 12%｜ 25K-60K\n商家治理数仓、大数据平台、电商风控治理、StarRocks/ClickHouse 、数据安全开发等。\n\n5️⃣ 安全方向｜约 8%｜ 20K-60K\n威胁狩猎、移动安全、合规治理、数据安全等，适合有攻防、安全体系或合规治理经验的同学。\n\n6️⃣ 架构 / 前端 / 全栈 / 策略｜",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.263Z",
       "roleFamilies": [
         "marketing",
         "technology",
@@ -71,7 +102,7 @@
       "publishedAt": "2026-10-16T10:18:12+00:00",
       "summary": "远程 AI 全栈开发工程师（后端 Go 方向）\n薪资：20-30K ，优秀另议\n职位概述\n负责视频资料检索平台后端架构与核心业务开发，以 Go 为核心技术栈，覆盖搜索聚合、播放服务、用户行为等业务线，并承担高并发稳定性、数据缓存、CDN 与播放链路等关键能力的建设与治理。本岗位要求具备全栈开发能力、精通 AI 工具并拥有产品思维，能够将业务需求转化为可上线、可观测、可扩容的技术方案。\n岗位画像：Go + 全栈开发能力 + 精通 AI 工具 + X 站经验优先 + 产品思维\n能力优先级：Go → AI 工具 → X 站经验 → 全栈开发能力\n\n一、岗位职责\n1 、核心业务开发与架构设计：负责平台后端架构与核心业务开发，覆盖搜索聚合、影片与创作者资料、播放服务、用户行为、收藏历史、排行榜及内容运营等业务线；主导需求评审与技术方案设计，推动业务目标落地\n2 、高并发服务与稳定性建设：以 Go 为核心构建高并发 API 服务，落地多级缓存、请求合并、异步队列、限流、熔断、降级与热点数据保护，保障突发流量下的服务可用性\n3 、AI 工具应用与全栈交付：精通 AI 编程工具与 AI 工作流，持续提升个人及团队研发效率；具备全栈开发能力，可独立完成前后端端到端交付\n4 、数据层与缓存体系：负责 MySQL 数据模型设计、索引优化、慢查询治理与读写链路优化；建设 Redis 缓存体系，系统解决缓存穿透、击穿、雪崩、大 Key 、热 Key 与失效风暴等典型问题\n5 、CDN 与视频播放链路：负责 Cloudflare / CDN 接入与治理（ Cache Rules 、缓存键、TTL 、回源保",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.263Z",
       "roleFamilies": [
         "operations",
         "technology",
@@ -86,7 +117,7 @@
       "publishedAt": "2026-10-16T09:55:44+00:00",
       "summary": "",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.263Z",
       "roleFamilies": [
         "technology"
       ]
@@ -99,7 +130,7 @@
       "publishedAt": "2026-10-16T07:07:04+00:00",
       "summary": "先说结论：这是内地博士后，不是澳门的博后，也不算出境。 \n \n 单位：横琴澳门大学高等研究院（澳门大学在横琴设立的科技创新与成果转化机构，已获批博士后科研工作站分站） \n 地点：珠海横琴，紧邻澳门 \n 性质：走中国博士后网 + 广东省人社厅，全程在国内办手续。 不用出境，也不算海外经历 \n 门槛： 博士 ，毕业时间一般不超过 3 年； 全职在站，不接受挂名 ；应届还未拿证的可用校级答辩决议书先进站 \n 钱： 年收入约 52 万（税前） = 基本薪资 12 万 + 生活补助 30 万 + 住房补助 10 万。合同期 2 年，满 2 年合计上限约 104 万。横琴有个税优惠 \n 出站：留在横琴工作或创业另有支持；想去高校或想去产业都行 \n \n 课题组做什么 \n 计算机视觉、多模态推理、空间智能。代表成果是 University-1652 和 GeoText-1652 两个跨视角地理定位数据集，做无人机/卫星定位、跨视角检索的应该用过我们放出来的数据。 \n 主要工作：跨视角地理定位与多模态检索的模型、数据集建设；视觉-语言模型的训练与推理优化（含小模型、边缘部署）；面向实际场景的原型系统搭建与评测；发明专利与成果材料，这部分我带你做。 \n 希望你 \n \n 熟练 Python + PyTorch \n 有 CV 或多模态方向的科研训练 \n 能独立推进一个模块 \n 加分：顶会顶刊一作；开源项目或完整系统 \n \n 投递 ：CV + GitHub 仓库发到（ [邮箱请查看原帖] ）。滚动招聘，11 月能到岗最好。 \n 邮件较多没法一一回复，但每一封我都会看。 \n 注：以上数字为政策口径的理论上",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "design"
       ]
@@ -112,7 +143,7 @@
       "publishedAt": "2026-10-16T05:24:23+00:00",
       "summary": "各位 V 友大家好，先简单介绍一下我们。\n\n我们是日本东京的 IT 公司——株式会社 GSD （ Global Solutions Delivery / GSD ）。\n官网： https://www.g-s-d.co.jp/ \n感兴趣可以先看看。\n\n目前业务团队持续扩招中，欢迎各位大佬加入，也欢迎推荐/转发。\n\n [基本信息] \n・工作地点：日本・东京\n・雇佣形式：正社员 / 个人事业主\n・日语要求：口语 N2 及以上\n・签证：赴日工签可协助办理\n\n [招聘岗位] \n\n 1.PM / PL\n工作内容：\n・对日项目整体推进（纳期、品质、团队）\n・客户与开发团队之间的双向沟通\n・支持团队成员成长\n\n希望你：\n・有全局视野，也能关注细节\n・会真心为团队成员的成长感到高兴\n・想用对日开发经验，做出更好的团队\n\n2.软件开发工程师\n工作内容：\n・对日软件项目的开发与交付\n\n主要技术栈：\nJava / .NET / PHP / C++ / Python\n\n希望你：\n・对写代码本身有兴趣\n・会思考“为什么这么写”，而不只是“能不能跑”\n\n [待遇与其他] \n・薪资：300 ～ 1,000 万日元（根据技术经验和日语能力，结合面试结果定薪）\n・保险：社会保险、厚生年金完备\n・交通费：额外支给\n・加班费：额外支给\n・休假：带薪年假、日本法定假日\n\n [应聘方式] \n・邮箱： [邮箱请查看原帖]\n\n其他 JD 细节可以随时咨询，我们会尽快回复。\n也欢迎转发给可能合适的朋友，谢谢。",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -125,7 +156,7 @@
       "publishedAt": "2026-10-16T03:06:31+00:00",
       "summary": "最近在看佛山的后端开发机会，主要想了解美的的 Java / .NET 岗位，求内推，也欢迎分享相关招聘信息。\n约 10 年后端开发经验，近期主要做 Java ，此前有多年 C# / .NET 开发经历。长期承担基础框架、核心模块及跨系统集成的设计开发，有从方案设计到项目交付的完整经历。\n主要技术能力： \n \n 后端与框架：Java / Spring Boot / MyBatis ，C# / ASP.NET Core / EF ；微服务公共组件、插件化与热插拔框架、SDK / Starter 设计。 \n 物联网与通信：MQTT 3/5 、gRPC 、物模型与异构设备接入、边云协同； TLS / 国密 GMTLS 、SCRAM 增强认证。 \n 消息与数据：Kafka 、ActiveMQ 、Redis ； Flink 实时处理，TDengine 时序存储、Doris 分析查询及 ELK 日志链路。 \n 工业软件： 可编排数据管道、规则与事件驱动、状态机、工艺流程编排及执行调度、多协议系统互联。 \n AI 应用实践： 个人开源项目中实践过 Agent 工具调用与执行预算控制、RAG 混合检索与 RRF 排序、MCP 、幂等与多模型回退。\n做过的项目方向： \n 物联网平台： 边缘管理与远程运维、插件生命周期管理，独立设计开发 Java 设备接入 SDK 。 \n 智能制造： 主导 SCADA 平台架构及核心模块、MES 工艺编排引擎，相关能力支撑上百条产线交付。 \n 金融安防： 多中心实时数据级联、设备状态同步及公共通信组件，所在平台覆盖百万级设备联网场景。\n希望找美的佛山的 Java /",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -139,7 +170,7 @@
       "publishedAt": "2026-10-15T10:05:12+00:00",
       "summary": "Position 一：机构 BDM \nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责开发维护机构客户、交易公司和战略伙伴，推动区域及国际业务拓展，并协调客户接入、代表公司参会以支持长期增长。\n2 、本科以上、2/8 年机构销售/业务拓展/合作管理经验，具备 Crypto 、衍生品及机构交易生态背景，中英文流利，有港新跨境市场、交易所/做市商/流动性资源者优先。\n\nPosition 二：C++低延迟交易系统工程师\nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责用现代 C++开发优化加密衍生品高频交易系统，覆盖行情、订单管理、执行、风控、仓位、监控及交易所 API 连接与故障排查。\n2 、本科以上、2/7 年 C++低延迟或交易系统经验，熟悉 Linux 、多线程、网络编程和衍生品订单生命周期，有 HFT/做市/OMS/交易所 API 及 NUMA 、lock-free 、DPDK/RDMA 、Rust/Python/K8s 等经验优先。\n\nPosition 三：量化策略研究员（高频交易与做市）\nJob Type: Full-Time ，Onsite-HK （提供 EP ）\nPS：\n1 、负责研究加密货币衍生品高频、做市和短周期策略，分析订单簿与订单流，构建考虑手续费、滑点、排队和延迟的回测仿真，并优化报价、库存、对冲与实盘验证。\n2 、本科以上、2/7 年量化/算法交易/做市经验，具备 Crypto 衍生品研究、概率统计与 Python 回测能力，熟悉执行约束和偏差识别，有永续",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.500Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "marketing",
         "technology",
@@ -155,7 +186,7 @@
       "publishedAt": "2026-10-15T09:37:13+00:00",
       "summary": "工作地点： 上海/北京/成都/西安\n工作经验：1–8 年（ 5 年左右优先）\n技术方向：C++ / Linux / 系统软件 / 仿真平台\n薪水：15-50 * 15 \n 岗位介绍 \n 我们正在开发面向复杂芯片系统的高性能仿真软件平台，涉及 C++ 系统软件、虚拟化、系统建模以及软件与硬件协同运行等技术。 \n 我们希望寻找一位 C++ 基础扎实、具有良好系统思维和复杂问题分析能力的工程师，共同参与核心软件平台的开发与持续演进。 \n 不要求具备芯片设计或 EDA 行业经验，欢迎有 Linux 系统软件、虚拟化、模拟器、基础软件及大型 C++ 项目经验的工程师加入。 \n 岗位职责 \n 参与大型 C++ 系统软件平台的设计、开发、优化及维护。 \n 开发和维护系统级仿真组件，实现不同软件模块及外部系统之间的通信、同步和数据交互。 \n 参与复杂软件系统的集成与调试，分析和解决跨模块、跨进程及复杂运行环境中的技术问题。 \n 参与现有软件架构的优化和重构，提升系统的可靠性、可维护性和运行性能。 \n 参与自动化测试、构建、持续集成和版本发布等工程体系的完善。 \n 与团队及客户协作，分析实际应用场景中的问题，并推动解决方案落地。 \n 任职要求 \n 计算机、软件工程、电子信息等相关专业，211 本科及以上学历，3 年以上 C/C++ 软件开发经验。 \n 熟练掌握 C++，理解面向对象设计、常用数据结构及软件设计原则，具有较好的代码设计和维护能力。 \n 熟悉 Linux 开发环境，熟练使用 GDB 、Git 、Make/CMake 等常用开发与调试工具。 \n 理解多线程、多进程、进程间通信、同步机制",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -169,7 +200,7 @@
       "publishedAt": "2026-10-15T06:29:37+00:00",
       "summary": "我们正在招聘一位资深前端开发工程师，欢迎有经验、技术扎实、能独立负责项目的开发者加入！\n\n岗位名称： 资深前端开发工程师\n工作地点： 上海\n工作经验：5 年以上\n汇报对象：Lead Developer (外籍）\n\n岗位职责\n\n负责 Web 、H5 、微信小程序等前端项目的架构设计、开发、维护及上线交付。\n\n独立负责项目从技术方案评估、工作量预估、开发实施到部署上线及后期维护的完整流程。\n\n与设计师、项目经理、后端开发及客户紧密协作，将业务需求和设计方案转化为高质量、可维护的技术实现。\n\n参与技术方案制定、代码评审及技术难题攻关，提前识别项目风险。\n\n持续优化前端性能、SEO 、可访问性、自动化测试及代码质量。\n\n指导初中级开发人员，推动团队技术能力与工程规范建设。\n\n熟练运用 AI Coding 工具提升开发效率，并对交付代码的质量、安全性和正确性负责。\n\n任职要求\n\n5 年以上前端开发经验，具备复杂生产级应用的独立开发与交付能力。\n\n熟练掌握 JavaScript 、TypeScript 、React ，具备 Next.js 和/或 Astro 的实际项目经验。\n\n必须具备微信小程序的实际开发、调试及问题排查经验。\n\n熟悉 HTML 、CSS 、响应式布局、浏览器 API 及现代前端架构。\n\n熟悉 Git 、代码评审、自动化测试、CI/CD 及生产环境部署。\n\n具备良好的代码阅读、调试和问题解决能力，能够独立理解和迭代现有项目。\n\n有使用 AI Coding 工具进行开发、调试、测试、重构等工作的经验，能够判断并审查 AI 生成代码的质量。\n\n英语能作为工作语言，能够与不同背",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -183,7 +214,7 @@
       "publishedAt": "2026-10-15T00:41:06+00:00",
       "summary": "As a Software Developer, you are responsible for the development, performance, and scaling of our public website as well as internal systems. \nYou will work independently and will also be responsible for making technical decisions within a team.\nImportant aspects of the job include:\nRapidly developing next-generation scalable, flexible, and high-performance systems.\nSolving issues with the site and internal systems, prioritizing based on customer impactActing as an intermediary for problems, with both technical and non-technical audiencesTesting：we run thousands of experiments running at one time. \nWe built one of the most advanced A/B testing platforms in the industry.\n\n[社交账号请查看原帖]\n邮箱： [邮箱请",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -196,7 +227,7 @@
       "publishedAt": "2026-10-14T06:34:36+00:00",
       "summary": "上次有几个岗位，已有合适人选了，本月新增了一个 HC 。 \n Java 开发工程师(高级) \n 薪资范围：18-25K,经验特别契合者薪资可再议 \n 岗位职责 \n \n 深度参与教育类平台的需求分析、系统架构设计、详细设计和核心代码开发。 \n 帮助团队成员解决技术问题，组织相关技术分享；维护现有系统和新系统的平稳运行，适时改进和重构。 \n \n 任职要求 \n \n 全日制本科及以上学历，计算机、软件工程等工科专业优先、5 年以上开发经验、对 Ai Coding 有深刻实践和认知。 \n JAVA 语言基础扎实，包括不限于：语言新特性(JDK8->21)、多线程、JVM 等。 \n 熟悉 Spring Cloud 开发体系，包括不限于 Spring Boot 、Gateway 、Nacos 、Mybatis 等主流开源框架，了解底层实现原理 。 \n 熟悉数据库设计，熟悉 MySQL 、ES 等数据库，并具有良好的 SQL 编写及调优能力。 \n 熟悉分布式系统理论，参与完整分布式系统的设计和开发经验，尤其有大数据量、高并发、高可用的技术落地方案。 \n 熟悉使用 K8S/Docker 等容器环境、Git 版本管理等基础开发与运维环境。 \n \n 加分项 \n \n 2 年以上教育行业经验优先。 \n 熟悉大模型的基本特性，熟悉 Prompt/Agent 工程，深刻理解大模型在 k12 教育下的场景应用。 \n 具备快速学习新技术的能力，对 AI 领域充满热情，对 AI 编程有深刻实践和认知，愿意探索未知领域。 \n \n 简历发送至：d3d3X3l4ZkBmb3htYWlsLmNvbQ==",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -210,7 +241,7 @@
       "publishedAt": "2026-10-14T03:07:06+00:00",
       "summary": "各位大佬，我司最近又开始招人了，小弟负责其中座舱中间件的招聘，想来 V 站碰碰运气，希望捞几个大佬带带我。 \n 主要业务：\n\n1.车控车设链路搭建，希望候选人熟悉 CAN 、Lin 、DDS 、SOME/IP 、ARXML 等，熟悉安卓 Vehicle HAL 与 CarService ；\n\n2.舱内/外摄像头相关业务，希望候选人熟悉 Linux v4l2,安卓系统 EVS HAL\\Camera HAL,Camera Service 以及 Camera2 API ，做过 DVR\\AVM\\OMS\\DMS 相关业务；\n\n3.仪表/HUD 相关业务，熟悉 QNX/Linux 系统，熟悉 Linux weston 窗口系统，熟悉 Android AMS/WMS/Surfaceflinger ，有 Kanzi 、团结引擎、OpenGL ES 相关使用经验；\n\n4.OTA/FOTA/SOTA 相关业务，希望后续人熟悉车载座舱 OTA 业务，熟悉 Android A/B 分区升级，Apex 热更新，UpdateEngine 相关工作原理； \n 有过车企量产经验的大佬欢迎投递简历，全程为大家服务，保证服务到位。\n薪资水平在重庆中上水平，五险一金、年度体检这些福利待遇该有的都有。 \n 微信（ base64 ）：Y29kZXJmYW5CYWJ5R28=",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "design"
       ]
@@ -223,7 +254,7 @@
       "publishedAt": "2026-10-13T11:53:01+00:00",
       "summary": "欢迎大家投递简历，对于没有 agent 开发经验的同学来说是一个很好的机会。 \n 团队介绍：视频与边缘部门承载了字节跳动的媒体内容分发基建及技术中台，团队介绍：支持了字节全系产品的点播、直播、实时通信、图片等多媒体业务发展，同时将业务发展过程中沉淀下来的技术能力和工具，通过火山引擎对外输出，面向各行各业用户提供视频云产品和服务，愿景是为内外部业务伙伴提供最低成本、最优画质、最低延时、最安全可靠的富媒体内容分发解决方案，助力业务伙伴降本提效实现持续增长。 \n 1 、参与 AI Media Agent 核心研发，构建覆盖图片/视频 AI 生产、AI 编辑、内容理解、AI 二创、AI 播放的全流程能力，探索数字人、漫剧、短剧、广告创意等场景的 AI 原生应用落地；\n\n2 、参与 AI Platform Agent 体系搭建，将传统 Open API 升级为 MCP 化服务，依托 AI 智能决策、智能编排与 Generative UI 等技术，打造突破传统 GUI 局限的下一代终端平台；\n\n3 、负责音视频全链路 SDK 开发，涵盖生产创作、编辑处理、实时传输、编解码优化、高清渲染等核心模块，适配 Web 、Flutter 、React Native 、Electron 、UniApp 、小程序等多端场景；\n\n4 、参与 AI Cloud 平台研发，提供 AI 建站、Pages 托管、Serverless 部署等一站式 Web 应用开发服务，赋能开发者高效构建 AI 原生应用。\n \n 职位要求\n\n1 、本科及以上学历，计算机、软件工程等相关专业优先；\n\n2 、基础知识扎实、编码熟练、有",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "marketing",
         "technology",
@@ -238,7 +269,7 @@
       "publishedAt": "2026-10-13T03:44:10+00:00",
       "summary": "1. AI Agent 工程师 \n 工作内容： \n负责 AI Agent 框架设计与开发，包括 Agent Harness 、Memory 、RAG 、工具调用及实时交互等核心能力，推动 AI 产品从 0 到 1 落地。 \n 职位要求： \n \n 5 年以上后端或 AI 工程经验，1–2 年 Agent 开发经验。 \n 熟悉主流 Agent 框架，有独立搭建 Agent 系统的经验。 \n 具备高并发、低延迟系统开发经验，技术基础扎实。 \n 有 AI 助手、AI 陪伴或 Agent 平台经验优先。 \n \n 2. AI Infra 工程师 \n 工作内容： \n负责大模型在线推理服务的架构设计与性能优化，提升模型推理效率、系统稳定性及 GPU 资源利用率。 \n 职位要求： \n \n 熟悉 vLLM 、SGLang 等主流推理框架。 \n 熟悉 KV Cache 、多机多卡部署及推理性能优化。 \n 具备高吞吐、低延迟推理服务的生产环境经验。 \n 有大模型 Serving 、分布式计算或 GPU 性能优化经验优先。 \n \n 3. LLM Data Engineer \n 工作内容： \n负责大模型训练数据工程体系建设，包括 SFT 、RLHF 、Preference Data 的数据处理、质量管理及自动化 Pipeline 。 \n 职位要求： \n \n 熟悉大模型训练及后训练数据流程。 \n 具备数据 ETL 、数据清洗、数据质量评估及 Pipeline 开发经验。 \n 熟练使用 Python ，具备良好的数据工程能力。 \n 有大模型公司训练数据建设经验优先。 \n \n 4. 算法产品经理（数据方向） \n",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "product",
         "technology",
@@ -253,7 +284,7 @@
       "publishedAt": "2026-10-13T03:16:50+00:00",
       "summary": "岗位名称：AI 质量评估工程师\n\n薪资：20-35k·13 薪 ｜ 常州·新北区 ｜ 3-5 年 ｜ 统招本科及以上\n\n岗位职责\n\n负责公司 AI 平台的质量保障，从 0 到 1 搭建质量与评测体系——你是 owner ，不是执行者；\n构建面向大模型/Agent 系统的评测体系：评测数据集、golden set 、LLM-as-judge 、回归测试资产；\n对商业秘密防护、大模型使用合规等安全能力进行对抗性验证；\n深度使用 AI 工具完成用例生成、代码审查、质量分析，沉淀 AI 驱动的测试工作流，让 AI 放大你的产出；\n参与公司产品的测试方案设计与执行，覆盖功能测试、接口测试、性能测试及兼容性测试；\n搭建并维护自动化测试框架，编写自动化测试脚本，持续集成到 CI/CD 流水线；\n参与需求评审和技术方案评审，从测试视角提出风险点和改进建议；\n负责缺陷跟踪与管理，推动开发团队及时修复，保障版本发布质量；\n编写测试计划、测试用例及测试报告，沉淀测试知识库。\n任职要求\n\n统招本科及以上学历，计算机、软件工程、人工智能、数学等相关专业优先；\n3 年以上软件测试经验，具备扎实的测试理论基础，熟悉测试用例设计方法；\n编码能力强：熟练 Python/Java 至少一种，能独立编写自动化测试脚本，能读懂 Rust 优先；\n深度使用 AI 编程工具（ Cursor/Claude/Copilot 等）开展工作，有完整的 AI 工作流，能专业审核 AI 产出——必要项，面试必聊；\n有质量体系从 0 到 1 搭建的意愿和能力，不满足于点点点；\n熟悉常用测试工具和框架，如 Pytest 、Seleniu",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -267,7 +298,7 @@
       "publishedAt": "2026-10-12T10:11:58+00:00",
       "summary": "岗位职责\n1. 负责 AI Native 产品的全栈研发，参与从产品设计、技术选型到上线迭代的完整过程。\n2. 基于 LLM 和 Agent 技术构建智能化应用，实现复杂业务场景下的任务规划、工具调用和工作流自动化。\n3. 负责前后端系统架构及核心模块开发，持续优化产品性能、稳定性和用户体验。\n4. 与产品、算法团队紧密协作，快速验证 AI 产品创新方向，推动 AI 能力在真实业务场景中落地。\n5. 熟练运用 AI Coding 工具，提高研发效率与产品交付质量。\n任职要求\n1. 本科及以上学历，计算机相关专业，3 年以上 AI Agent / AI 应用相关开发经验，具备扎实的全栈工程能力。\n2. 熟练掌握 React 、Next.js 、TypeScript 等前端技术，具备 Python 、Go 或 Node.js 后端开发经验。\n3. 熟悉主流 LLM API 及 Agent 技术框架，具备 RAG 、Function Calling 、Workflow 等实际项目经验。\n4. 具备 AI 产品从 0 到 1 的开发和上线经验，能够独立完成复杂功能的设计与交付。\n5. 对 AI 技术和产品创新有热情，具备较强的 Ownership ，适应快速迭代的工作节奏。\n加分项： 有 AI Native 产品、Multi-Agent 、MCP 或海外 AI 产品开发经验。\n\n预算：月薪 30-60k ，13-15 薪\n[社交账号请查看原帖] ，加了给我发简历，我回复速度更快",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -281,7 +312,7 @@
       "publishedAt": "2026-10-12T09:27:07+00:00",
       "summary": "蚂蚁集团｜后端研发工程师（ Agent 应用方向）\n职级：P5–P6\n我们希望找到既具备扎实后端研发能力，又有 Agent 应用实践经验的工程师，一起推动 AI 能力在真实业务场景中落地。\n岗位职责 \n \n 负责核心业务后端系统的设计与研发，保障系统的稳定性、性能与可扩展性。 \n 参与 Agent 应用的方案设计与开发，包括工具调用、任务规划、上下文管理及业务系统集成。 \n 围绕业务场景，持续优化 Agent 的任务完成率、响应速度与调用成本，建设效果评测和运行监控能力。 \n 与产品、算法及前端团队协作，推动需求从技术方案、开发交付到上线后的持续迭代。\n任职要求 \n 具备扎实的计算机基础，熟悉 Java 及主流后端开发框架，具备良好的编码习惯和工程能力。 \n 熟悉数据库、缓存、消息队列等常用技术，理解分布式系统设计，能够独立完成模块设计、开发与问题排查。 \n 具备 Agent 应用实际研发经验，参与过可运行、可验证的项目，熟悉大模型接入、工具调用（ Tool Calling ）、工作流编排及上下文管理等关键环节。 \n 理解大模型应用的能力边界，对输出不确定性、异常处理、权限控制及效果评测有实际思考或实践。 \n 具备良好的业务理解、沟通协作和主动推进能力； P6 候选人需具备独立负责复杂模块或项目、推动技术方案落地的能力。\n加分项 \n \n \n 有 Agent 应用上线及持续运营经验，能够结合数据说明业务效果与优化成果。 \n 有 RAG 、MCP 、多 Agent 协作或长任务执行等实践经验。 \n 有高并发系统、复杂业务系统建设经验，或相关开源项目贡献。 \n \n 联系 wx:xxd",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "operations",
         "technology",
@@ -296,7 +327,7 @@
       "publishedAt": "2026-10-12T06:33:32+00:00",
       "summary": "相关岗位查看：\n https://www.lootrushs.com/careers \n Full-stack Web3 Engineer\nSolana / Rust Engineer\nSenior Web3 Designer\nFrontend dApp Engineer\nSenior Blockchain Developer\n... \n both hiring. \n 简历请发送到：amlua2luOTUxN0BnbWFpbC5jb20=",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -310,7 +341,7 @@
       "publishedAt": "2026-10-10T23:10:33+00:00",
       "summary": "Android 职位：\n○ 3+ years of Android application development using Android SDK\n○ 5+ years of experience as a developer with Java and other languages\n○ Strong interaction and design sense, excellent attention to detail\n○ Self-motivated to explore new technologies, applications and\nenvironments\n○ Self-starter, highly motivated, team-player\n○ Advanced proficiency in English reading and writing, with intermediate\nproficiency in listening and speaking\n■ Bonus Points:\n○ Experience with Android Market place & Distribution Process\n○ An approved Play store app\n○ SQL knowledge and/or willingness to learn\n○ Experience working with A/B testing\n○ You are passionate about open source and contribute\n○ You’re ",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -323,7 +354,7 @@
       "publishedAt": "2026-10-10T10:30:59+00:00",
       "summary": "公司名：鹰角网络\n主要游戏：明日方舟、终末地（ 1.22 开服两周 12 亿）...\n\n# 投递方式\n\n打开链接直接选择岗位投递 - https://app.mokahr.com/recommendation-apply/hypergryph/28713?recommendCode=NTA6WPs#/jobs \n\n搜索服务端、后端、前端、web 、数据、测试、qa 等关键词即可\n\n# 福利\n\n关于员工福利： 保底 16 薪，年终丰厚 不限工龄租房补贴 1500 每月，校招翻倍 每日交通补贴 30 包三餐（早餐为餐补 20 ） 五险一金拉满，含补充公积金共 12% msh 商业保险 健身、培训课程、购买 3C 数码等每年 6000 额度报销 员工年度体检，父母/岳父母每人 1000 体检报销 异地入职交通酒店费用报销 早 10 晚 7 ，双休，支持弹性打卡 办公环境舒适，标配升降桌、人体工学椅 睡眠舱 中午吃饭午睡 2 小时 无内卷无 PUA 定期部门团建 零食饮料咖啡机免费无限量任选 下午茶节日礼包等不定期福利频繁 年会奖品丰厚 有健身房 有猫房 实现带娃上班 免费理疗服务 全薪病假 8 天 女员工有生理假 5 天 有上海人才引进落户渠道",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "sales"
@@ -337,7 +368,7 @@
       "publishedAt": "2026-10-10T05:47:44+00:00",
       "summary": "我们是株式会社 GSD （ Global Solutions Delivery ），专注对日 IT 事业，客户以日本大型企业为主。\n会社官网： www.g-s-d.co.jp \n目前业务团队扩张中，以下两个岗位长期有效：\n\n■ PM / PL\n- 对日项目整体推进（进度 / 质量 / 团队管理）\n- 客户与开发团队的双向沟通\n- 团队成员的成长支持\n\n■ IT 软件工程师\n- 对日软件项目的开发与交付\n- 技术栈：Java / .NET / PHP / C++ / Python\n\n■ 基本条件\n勤务地：日本东京 ｜ 雇用形態：正社员 / 个人事业主\n日语：会话级 N2 以上 ｜ 签证：可支持办理就劳签证\n\n■ 待遇\n300 ～ 1,000 万日元（经验 / 能力 / 面试决定）\n社保厚生年金完备 / 交通费残业代另支 / 週休二日制\n\nJD 详情欢迎站内信或邮件，会尽快回复。也欢迎转发给身边合适的朋友。",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -350,7 +381,7 @@
       "publishedAt": "2026-10-10T04:09:14+00:00",
       "summary": "薪资：5000 ～ 7000 元/月｜全国远程｜长期合作 \n 一、项目介绍 \n 我们是一支专注于 AI 模型服务及开发者基础设施的创业团队，项目已有产业背景投资人参与，具备实际资金投入及长期发展规划。 \n 目前正在开发一款面向全球开发者及企业的 AI 模型 API 聚合平台，提供主流大语言模型、AI 图片生成、视频生成等能力的统一接入服务。 \n 平台基于 New API 进行二次开发，核心功能已基本完成，目前正在推进多模型兼容性测试、稳定性优化及商业化上线。 \n 项目已有实际产品基础，并非从零开始的概念项目。后续将持续围绕模型聚合、智能路由、API 服务及 AI 应用场景进行产品迭代。 \n 现希望寻找一名熟练使用 Codex 、Claude Code 等 AI 编程工具，具备独立全栈开发及端到端交付能力的工程师长期合作。 \n 我们希望找到的不是单纯负责某个模块的开发人员，而是能够借助 AI Coding 工具，独立完成前后端开发、测试、部署和持续迭代的全栈工程师。 \n 二、岗位职责 \n \n \n 全栈开发 \n \n 负责平台前后端功能开发、页面优化及业务逻辑实现。 \n 根据产品需求独立完成技术方案设计、开发和交付。 \n 维护和优化现有 New API 项目。 \n \n \n \n AI 辅助研发 \n \n 熟练运用 Codex 、Claude Code 等工具完成日常研发工作。 \n 利用 AI 工具进行代码分析、功能开发、重构、调试和测试。 \n 建立高效的 AI Coding 开发流程，提高整体研发效率。 \n \n \n \n 模型 API 接入 \n \n 负责 AI 模型接口接入及协议适配。 \n",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -364,7 +395,7 @@
       "publishedAt": "2026-10-09T12:05:19+00:00",
       "summary": "岗位信息：\n https://talent.an[社交账号请查看原帖].com/off-campus-position?positionId=260922012193062&qrCode=A6PX3Z1H%2F8pHC%2FwtNmu3yoXkC6qQRVqcJloNJAAz25hQLPd004pHZ7OUGjKPEmGOmbthMgsr7UeFLW_WnP9uPw%3D%3D \n\n竞争力：\n支持大模型语料和全网搜索 RAG 场景，前景最好的方向之一；\n有全网数据基础，可以充分发挥算法价值，拿到亮眼结果；\n团队氛围好，追求长期健康发展，有充分的工程支持，有带新人机会，未来可以扩展团队；\n杭州租房买房成本低，环境好。\n\n期望你有比较好的算法基础，最好是硕士及以上。如果想进一步了解，欢迎你随时联系。\n邮箱： [邮箱请查看原帖]\nwechat：[电话请查看原帖]\n\n等你来！",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -377,7 +408,7 @@
       "publishedAt": "2026-10-09T09:34:50+00:00",
       "summary": "Position 一：资深前端工程师 or 前端小 Leader （需要一线做事）\nJob Type: Full-Time ，remote\nPS：\n1. 负责核心交易前端架构设计与开发，主导复杂交互页面及可视化模块的研发，持续优化性能与用户体验。\n2. 推动前端工程化与组件化建设，要求 5 年以上经验，精通 React/Vue 、TypeScript 及 WebSocket 实时推送优化，具备从 0 到 1 的项目落地能力和团队协作精神。\n3. 全日制本科及以上，需要头部 CEX 全职合约交易系统开发背景。\n\nPosition 二：HRD/HR 负责人（一号位，汇报 CEO ）\nJob Type: Full-Time ，remote\nPS：\n管理 7/10 人团队\n1 、曾在知名交易所担任 HRD/HR Head 或 HRBP Leader 的负责人，能直接对话 CEO ，驱动业务而非停留于后台职能。\n2 、该角色不是来了只写制度、建文档、走流程的，而是以人才引进、绩效激活和文化建设为三大核心战场。\n3 、主导技术、量化、风控、合规等中高端及全球化岗位招聘，搭建行业人才地图，确保关键岗位快速到岗且高质匹配。\n4 、深入业务，设计有竞争力的薪酬与长期激励（ Token/ESOP ），同时推动绩效体系落地，直接支撑组织效率与业务增长。\n5 、协同 CEO 塑造企业文化，强化核心人才保留，在高速创业节奏中打造稳定、有战斗力的团队，并持续完善 HR 职能支撑体系。\n\nPosition 三：中东（ MENA ） BD 组长\nJob Type: Full-Time ，remote\nPS：\n",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "marketing",
         "operations",
@@ -393,7 +424,7 @@
       "publishedAt": "2026-10-09T08:59:55+00:00",
       "summary": "Agent 开发工程师 \n 岗位职责 \n \n 负责垂直行业（制造、审计等） Agent 相关功能模块的设计、开发与持续迭代； \n 参与 Agent 执行流程的开发与调优，包括工具调用、上下文管理、结果校验与异常兜底等模块； \n 参与客户一线业务调研，理解真实业务场景与需求，并完成相关功能的技术方案设计、工程实现和客户交付； \n 参与团队 Agent Infra 的持续扩展与优化，参与通用能力验证与沉淀，并将业务场景中的共性问题提炼至 Agent Infra ，推动其持续演进； \n 参与 Agent 效果评估与持续优化，通过真实业务 Case 分析问题并推动能力迭代。 \n \n 任职要求 \n \n 学历： 本科及以上，计算机、软件工程或相关专业 \n 后端： 熟悉 Rust / Go / Java / Python / 中至少一种，了解对应主流框架及常用中间件（ Redis / MySQL / MQ 等） \n 前端： 熟悉 TypeScript ，了解 React 或 Vue 及其生态工具链 \n 工程化： 了解 Git 工作流、CI/CD 基本概念，能独立完成开发→调试→部署的基本闭环 \n 运维基础： 了解 Linux 操作系统基础知识，具备基础的运维部署经验，熟悉 Docker 基本使用 \n \n 软素质： \n 能独立思考和解决问题，遇到卡点先排查再求助 \n 有一定抗压能力，项目节奏快时能稳住交付质量 \n 主动性强，愿意学习新技术和工具 \n \n \n \n 加分项 \n \n 有个人项目或开源贡献 \n 有 Pi 、OpenCode 、DeepSeek Harness 等 Agent Runti",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology",
         "design"
@@ -407,7 +438,7 @@
       "publishedAt": "2026-10-09T06:34:11+00:00",
       "summary": "Base 深圳或广州，远程为主，定期香港出差，需要 2–5 年经验、本人写代码的工程师，不招高级或管理岗，基础薪资 20K-30K。\n投递请联系邮箱 [邮箱请查看原帖]\n\n业务后端工程师（Go）\n3–5 年经验，本人动手写代码，不招高级或管理岗\n熟练使用 Go\n高并发 API\n多端接口（Web / iOS / Android）\n接口安全：鉴权、签名、防重放、防越权、幂等、并发一致性\n熟练使用 Cursor、Claude 等 AI 编程工具\n优先： 交易、支付、钱包类 API\n相近背景可接受：金融、支付、高并发 SaaS 的公网 API，有接口安全经验。业务规则可入职后带。\n不匹配情况：只做过内部系统；无接口安全经验；技术管理、架构师，或 5 年以上偏管理的候选人",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -420,7 +451,7 @@
       "publishedAt": "2026-10-08T07:12:43+00:00",
       "summary": "过完节了，帮团队招人 👋\n\n我们正在用 AI Native 的方式重构数据安全。期待你工程基础扎实，理解 LLM 原理，有 AI/Agent 应用实战经验，能把 AI 能力落地为生产系统，并持续提升实际效果。\n\n工作地杭州，层级 P6–P7\n\n职位详情参见 https://talent-holding.alibaba.com/off-campus/position-detail?lang=zh&positionId=100033620003 \n\n欢迎官网投递，或发简历至 dongshuang.xds@alibaba -inc.com",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -433,7 +464,7 @@
       "publishedAt": "2026-10-08T06:20:21+00:00",
       "summary": "拓竹科技（ Bambu Lab ）招聘内推｜上海全职岗位 \n 公司：拓竹科技（ Bambu Lab ） \n 拓竹科技专注于 3D 打印机、智能硬件、云服务及全球化产品，现开放以下上海全职岗位，欢迎有相关工作经验、对 3D 打印和智能硬件行业感兴趣的朋友投递。 \n 招聘岗位 \n 1. 高级/资深软件测试工程师（移动端方向） \n 工作地点： 上海\n\n 职位类型： 全职 \n 主要负责： \n \n Bambu Handy APP 的全链路质量保障； \n APP 、云端服务与 3D 打印机设备的适配及多端协同； \n 设备状态同步、远程控制、模型切片下发、实时监控、多机管理等核心场景的测试； \n 建设和优化 iOS 、Android 及 IoT 设备的自动化测试体系； \n 开展接口自动化、UI 自动化、稳定性、兼容性及性能测试； \n 参与 IoT 协议适配、弱网环境、音视频推拉流、跨端兼容性及功耗性能等专项测试； \n 推动质量左移、疑难问题排查和测试资产沉淀。 \n \n 2. 高级前端/全栈工程师 \n 工作地点： 上海\n\n 职位类型： 全职 \n 主要负责： \n \n 独立负责业务线的前端建设，从技术方案设计到上线交付； \n 与产品、设计、后端及运营团队协作，参与需求评审和方案决策； \n 负责前端性能、Core Web Vitals 、首屏加载、交互响应、SEO 、可访问性及异常监控； \n 建设组件库、工程化工具链、国际化及多地区方案； \n 参与埋点、实验能力、代码评审和技术分享； \n 指导初级工程师及实习生，沉淀团队技术资产。 \n \n 3. 后端开发工程师（云端） \n 工作地点： 上海\n\n 职位",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "operations",
         "technology",
@@ -448,7 +479,7 @@
       "publishedAt": "2026-10-08T04:00:10+00:00",
       "summary": "没错，无论你是应届生、实习生，还是已经工作多年的业界大佬，我们都非常欢迎 😊 \n 团队简介 \n 腾讯云 Agent Runtime 团队欢迎优秀的 Agent 基础设施人才加入。 \n 我们为腾讯内部业务及外部公有云客户提供 Agent 安全沙箱、Session 、身份凭证、Agent Registry 等 Agent Infra 相关能力，已支持 WorkBuddy 、CodeBuddy 、IMA 、元宝等腾讯内部产品，也服务于智谱、MiniMax 等 AI 客户的强化学习场景，承载数百万量级的 Sandbox 。 \n 产品入口： 腾讯云 Agent Runtime \n 岗位要求 \n \n 计算机相关专业。 \n 具备优秀的 AI Coding 能力，熟练使用主流 AI Coding 工具及方法论。 \n 有 Agent Infra 相关产品研发经验者优先。 \n 有云产品相关研发经验者优先。 \n \n 另外 \n \n 对于社招，我们希望你有 5 年以上云产品相关工作经验。 \n 对于应届生，我们希望你有让自己感到骄傲的作品，展示你的过人之处。 \n 对于实习生，我们希望你对技术充满热情，富有创造力和执行力。 \n \n 联系方式 \n 欢迎将简历投递至 [邮箱请查看原帖] ，最好能附上一段简单的自我介绍 😊",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "technology"
       ]
@@ -461,51 +492,10 @@
       "publishedAt": "2026-10-08T03:21:29+00:00",
       "summary": "SEO 增长专员（内容运营方向／研究执行方向） \n 招聘人数：2 人\n\n工作方式：远程协作\n\n招聘形式：全职／实习\n\n全职／实习薪酬：实习薪资 200–300 元／天，全职薪酬面议\n\n招聘截止：2026 年 11 月 8 日 \n 岗位介绍 \n 我们希望招聘两位伙伴，参与 SEELE 海外产品的 SEO 增长。 \n 内容运营方向： 全职优先，负责从关键词研究、内容规划到发布、更新和效果跟踪的内容流程。 \n 研究执行方向： 实习或长期兼职优先，协助关键词与竞品研究、数据整理、外链推进和 SEO 实验执行。 \n 产品面向海外市场，内容以英文为主。日常工作会使用 AI 工具辅助研究、撰写和分析，因此不要求候选人具备母语级英文写作能力；更看重信息核验、内容判断、执行力和对搜索意图的理解。SEO 策略方向和复杂技术问题会由团队负责人带领。 \n 工作内容 \n 内容运营方向 \n \n 根据关键词和搜索意图，整理内容选题、内容 brief 和发布计划。 \n 使用 AI 工具辅助生成或优化英文内容，并核对事实、结构、产品信息和搜索意图匹配度。 \n 协调内容生产、页面发布和旧内容更新，维护内容从规划到上线的流程。 \n 优化标题、描述、页面结构、内链等基础 SEO 要素。 \n 跟踪内容表现，发现需要更新或进一步优化的页面，并记录效果。 \n \n 研究执行方向 \n \n 协助开展关键词、搜索结果页和竞品研究，整理潜在增长机会。 \n 使用 Google Search Console 、GA4 等工具跟踪展现、点击、排名、收录和流量数据，维护报表并整理观察结果。 \n 协助排查常见 SEO 问题，例如页面未收录、重",
       "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
+      "sourceVerifiedAt": "2026-10-19T16:27:17.264Z",
       "roleFamilies": [
         "marketing",
         "operations"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1246802",
-      "title": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
-      "url": "https://www.v2ex.com/t/1246802",
-      "author": "rowena1225",
-      "publishedAt": "2026-10-07T09:46:49+00:00",
-      "summary": "更新了一批 SHEIN 当前广州 base 的全量 10 个技术类岗位和对应薪资（上次发布是 3 个月前）。\n\n这批岗位方向覆盖算法、AI 、供应链研发、运维、网络、安全、架构等，薪资范围最高可达 70K （薪资范围上下限主要看简历情况、最终职级定级，供大家谈薪参考）。\n\n比较适合：\n有 2 年以上相关技术经验；\n做过互联网、电商、广告、推荐、搜索、供应链、AI 平台、数据平台等业务；\n算法方向有线上业务落地经验；\n后端方向有复杂系统、平台化、稳定性或性能优化经验。\n\n薪资可参考 SHEIN 招聘官网 & Boss 直聘信息，最终以 JD 、面试评估和 HR 沟通为准。\n\n具体岗位清单，可以复制下面 moka 链接到微信打开：\n https://app.mokahr.com/su/fyfjka \n\n如果看完岗位 jd 有信心满足要求，可以直接在链接内内推投递（链接内无需填内推码）。或者官网投递，填我的内推码。\n官网： careers.shein.cn/ \n内推码：NTA1yhF\n\n如果不确定适合哪个方向，可以填一下匹配收集表，我来帮忙判断匹配度：\n https://doc.weixin.qq.com/forms/APMA2QcuAAkATMAFgYMAEYCNtftbo7jpf?page=1 \n\n补充说明：\n本人是 SHEIN 员工，不是 HR ，这帖只是内推信息整理，不代表官方招聘口径。\nSHEIN 不同部门、团队、业务线差异比较大，我不能给所有团队背书，建议大家面试时重点确认团队业务、汇报线、加班节奏、人员稳定性和 HC 背景。\n内推不保证面试或 offer ，也不保证 H",
-      "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
-      "roleFamilies": [
-        "technology"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1246303",
-      "title": "[招聘] 海外运营客服",
-      "url": "https://www.v2ex.com/t/1246303",
-      "author": "dimingchan",
-      "publishedAt": "2026-10-03T14:31:37+00:00",
-      "summary": "招聘岗位：运营客服 \n 招聘人数：2 \n 工作职责： \n 1:玩家咨询：处理账号、登录、充值、活动、游戏规则，结算疑问等游戏问题，保证回复时效及服务满意度。 \n 2:玩家维护：提供基础服务，玩家情绪安抚，收集玩家意见及建议。 \n 3:数据整理：统计客户的高频问题/活动反馈/玩家建议/游戏 Bug 。记录数据，反馈后跟进解决进度，并做好记录和月底总结。 \n 要求： \n 1:打字速度 60 字/分钟以上 \n 2:熟练使用 Office 办公软件 \n 3:能服从管理，接受轮班制度 \n 有互联网客服经验优先。 \n 工作地点：海外 \n 联系：[社交账号请查看原帖]== (Base64) \n 邮箱：ZGltaW5nY2hhbkBnbWFpbC5jb20= (Base64)",
-      "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
-      "roleFamilies": [
-        "operations"
-      ]
-    },
-    {
-      "id": "https://www.v2ex.com/t/1246063",
-      "title": "招聘｜后端开发工程师（ PHP + Go）",
-      "url": "https://www.v2ex.com/t/1246063",
-      "author": "qinm358",
-      "publishedAt": "2026-10-01T15:14:54+00:00",
-      "summary": "目前在做一个持续运营中的互联网产品，现招聘一名后端开发工程师，主要负责服务端功能开发、接口维护以及后续业务迭代。\n\n项目已经有稳定的业务和基础架构，不是从零开始搭项目，希望找一位能够长期参与项目、独立解决问题的后端。\n\n一、技术栈\n\n目前主要使用：\n\n* PHP\n* Go\n* MySQL\n* Redis\n* Linux\n* RESTful API\n* Git\n\n有实际线上项目经验即可，不要求所有技术都精通。\n\n二、工作内容\n\n1. 负责后端 API 开发及维护\n2. 负责现有业务功能迭代\n3. 参与数据库设计及接口优化\n4. 处理线上 Bug 和异常问题\n5. 根据产品需求完成新功能开发\n6. 配合前端、客户端进行接口联调\n7. 对系统稳定性、性能和安全性进行持续优化\n\n三、岗位要求\n\n* 2 年以上后端开发经验\n* 熟悉 PHP ，有实际线上项目经验\n* 熟悉 Go ，有 Go 项目经验优先\n* 熟悉 MySQL 、Redis\n* 熟悉 Linux 环境及常用运维操作\n* 能独立完成接口开发、调试和问题排查\n* 有较好的代码规范和工程意识\n* 能够长期稳定合作\n\n如果你 PHP 很熟，Go 目前不是特别熟，但愿意接触，也可以聊。\n\n四、薪资待遇\n\n10K–15K/月，具体根据实际能力面谈。\n\n如果能力比较强、能够独立负责后端模块，薪资可以再谈。\n\n长期合作后，会根据项目贡献和实际情况提供额外激励。\n\n五、我们更看重什么\n\n相比学历和证书，我们更看重：\n\n能不能把事情做完、线上出了问题能不能解决、能不能长期稳定合作。\n\n项目目前已经在线运行，有真实业务，不是单纯写 Demo 。",
-      "linkStatus": "feed_listed",
-      "sourceVerifiedAt": "2026-10-19T06:11:44.501Z",
-      "roleFamilies": [
-        "operations",
-        "technology",
-        "design"
       ]
     }
   ]
